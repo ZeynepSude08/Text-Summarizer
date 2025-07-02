@@ -1,1 +1,3 @@
-Text summarizer English language only with Gradio.
+Text summarizer and keywords extraction
+English language only 
+with Gradio.
