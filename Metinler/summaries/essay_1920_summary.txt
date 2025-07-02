@@ -1,0 +1,7 @@
+however, using twitters builtin functionality did not allow measuring the social metrics of interest, so it was decided to use the brandmentions platform, which examines the number of mentions, interactions, reach, shares, and likes for a particular tag  brandmentions 2019.
+number of mentions of a particular key term on twitter over the past month in thousands
+a number of interactions with a particular key term on twitter in the past month in thousands
+reach was the third metric of interest for analysis it includes the total number of twitter users who have seen that key term at least once in the past period chen 2018.
+number of shares for a particular key term on twitter over the past month in thousands
+a number of likes for a particular key term on twitter over the past month in thousands
+for the set of five keywords, it is shown that specific metrics differ depending on the term while sustainability had the highest number of mentions, reach, and shares, in terms of likes and interactions, the leader was globalwarming.

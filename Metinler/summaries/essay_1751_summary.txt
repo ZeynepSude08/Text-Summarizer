@@ -1,0 +1,3 @@
+table 2 nodes calculation for machine 2 automated
+the table below provides a payoff matrix table that toledo leather company can use in making decisions about the two machines.
+using the maximin, the company should select the automated machines as it provides the highest value, that is, 330,000.

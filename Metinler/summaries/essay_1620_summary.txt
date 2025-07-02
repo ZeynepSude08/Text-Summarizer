@@ -1,0 +1,3 @@
+on the contrary, a switchs design suits it for connecting many computers or network segments within one local area network lan dye et al., 2011.
+overall, a router and a switch exhibits fundamental functional differences while the former suits a home setting where a few devices are used to connect to the internet, the latter befits institutional use where multiple computers are linked in a single lan.
+generally, a layer 2 switch facilitates communication between devices on a single local network dye et al., 2011.

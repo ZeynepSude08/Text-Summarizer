@@ -1,0 +1,8 @@
+day
+resort
+business
+corporation
+corporations
+planning
+plans
+goals

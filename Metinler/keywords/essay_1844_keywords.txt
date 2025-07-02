@@ -1,0 +1,6 @@
+healthcare
+groups
+group
+african
+patients
+patient

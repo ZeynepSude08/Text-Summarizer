@@ -1,0 +1,6 @@
+values
+value
+conflict
+conflicts
+religious
+physical

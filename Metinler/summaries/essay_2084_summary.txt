@@ -1,0 +1,2 @@
+it necessitates the creation of universally shared and accepted character encoding standards, such as ascii or unicode, to ensure that the same combination of symbols would always be displayed correctly.
+ascii, which is short for american standard code for information interchange, and unicode are the two most used character encoding standards in the world.

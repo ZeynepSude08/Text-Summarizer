@@ -1,0 +1,9 @@
+gender
+genders
+halim
+activities
+activity
+features
+types
+typing
+bergin

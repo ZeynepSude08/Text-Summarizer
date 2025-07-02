@@ -1,0 +1,10 @@
+computerized physician order entry or cpoe systems are an increasingly popular alternative to the manual entry for clinician prescribing.
+this paper presents the literature review as an integral part of the report regarding the benefits, errors, and implementation potential of the cpoe.
+1. cpoe is also defined as a solution to reduce medical errors by implementing a computerized order entry system for healthcare providers amiri et al., 2018, p.
+2009 looked at the evidence from 12 studies to determine how cpoe systems affect the reduction of medical errors.
+scientists also recommend more standardized studies on prescribing errors, including comparisons between different cpoe systems.
+in particular, a significant reduction in medical errors when ordering drugs was positively associated with the introduction of the cpoe system charles et al.
+thus, the literature review of the articles analyzing the implementation potential of cpoe was presented.
+determinant of successful implementation of computerized provider order entry cpoe system from physicians perspective feasibility study prior to implementation.
+computerized physician order entry cpoe.
+does computerized provider order entry reduce prescribing errors for hospital inpatients?

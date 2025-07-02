@@ -1,0 +1,13 @@
+patients
+patient
+hospitals
+hospital
+film
+wilson
+medical
+death
+deaths
+room
+rooms
+professional
+professionals

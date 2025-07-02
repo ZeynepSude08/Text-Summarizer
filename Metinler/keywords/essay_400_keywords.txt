@@ -1,0 +1,7 @@
+assistants
+assistant
+humans
+human
+ai
+ais
+author

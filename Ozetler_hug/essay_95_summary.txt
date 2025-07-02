@@ -1,0 +1,5 @@
+----- ÖZET -----
+The first article is written by Benzaid and Taleb (2020) published in IEEE Network. The second article is by Zhang et al. (2021) and it analyzes the interoperability of BIM software tools. Both articles are scientific and made by the use of quantitative and qualitative research methods.
+
+----- ANAHTAR KELİMELER -----
+security 5g networks, data security agents, network use ai, artificial intelligence 5g, cyber security

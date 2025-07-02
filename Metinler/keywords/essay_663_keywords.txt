@@ -1,0 +1,8 @@
+credit
+financial
+clients
+client
+ratings
+rating
+states
+state

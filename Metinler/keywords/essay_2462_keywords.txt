@@ -1,0 +1,7 @@
+patients
+patient
+nurses
+nurse
+stroke
+health
+extremely

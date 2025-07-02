@@ -1,0 +1,5 @@
+web
+emergency
+emergencies
+covid
+bashier

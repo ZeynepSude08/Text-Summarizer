@@ -1,0 +1,8 @@
+good
+wall
+walls
+neighbors
+neighbor
+boundary
+boundaries
+begin

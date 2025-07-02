@@ -1,0 +1,10 @@
+bridgestone
+ibm
+companies
+company
+projects
+project
+customer
+customers
+work
+working

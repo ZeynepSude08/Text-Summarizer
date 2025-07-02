@@ -1,0 +1,3 @@
+iterative solutions use a sequential search that utilizes repeated actions or loops, while recursion uses a binary search to divide the problem.
+binary search through the integers or dictionary is conducted through the recursive binary search function that includes the array and the target information.
+recursion can be used for searching an array or valued and void functions.

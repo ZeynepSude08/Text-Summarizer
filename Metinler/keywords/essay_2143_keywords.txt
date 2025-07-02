@@ -1,0 +1,9 @@
+messi
+ronaldo
+player
+players
+career
+teams
+team
+playing
+played

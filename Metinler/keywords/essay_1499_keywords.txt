@@ -1,0 +1,6 @@
+theory
+theories
+effects
+effect
+jones
+students

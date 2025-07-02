@@ -1,0 +1,9 @@
+patient
+patients
+web
+informed
+informs
+information
+medical
+health
+treatment

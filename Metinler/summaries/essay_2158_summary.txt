@@ -1,0 +1,8 @@
+databases dbs are used to store large amounts of data of a variety of types.
+these databases can duplicate the same data in multiple locations, allowing it to be accessed quickly from anywhere and serve as backups in case one location has a malfunction.
+while some attacks against a db are performed without legitimate access, one can also abuse legitimate privileges to corrupt or steal data.
+without legitimate access rights, an attacker can still gain information from a database.
+for instance, an attacker can gain sensitive information if he or she can access accelerometer or eye tracking data.
+inference controls are methods of protecting sensitive data from this attack malik  patel, 2016.
+an injection is a type of attack where a user manipulates legitimate input to execute a db query.
+database security  access control models a brief overview.

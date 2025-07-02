@@ -1,0 +1,5 @@
+the heater and the pump supplying oil are made to use electricity mainly from a generator without the operation of any auxiliary boiler when it is not in operation for a long time.
+there is the pump for supplying oil with the main function of enhancing the circulation of oil from the tank passing through a heater and back to the oil tank again the temperature of the oil is thus maintained.
+the heater valve should be made sure that it is open at all times during the systems operation there is efficient temperature distribution when this is done.
+the following have been shown on the response curve the controller output change, the dead time, the time constant, the process value change.
+there is dead time in the response curve where there is a delay in the case of controller output signal issued and when the measured variable of the process is recorded.

@@ -1,0 +1,23 @@
+Artificial Intelligence: Spell and Graphcore Partnership Essay
+
+Table of Contents
+ 1. Summary of the Article
+ 2. Discussion of the Business Implications
+ 3. Personal Opinion
+ 4. Work Cited
+
+Summary of the Article
+
+The article “Spell, Graphcore Partner to Build Next-Gen AI Infrastructure” by Chris J. Preimesberger tells about announcing a partnership between two companies that work with artificial intelligence (AI). The author highlights the purpose of this collaboration: to create “the next generation of AI infrastructure” (Preimesberger). It implies that these companies will integrate each other’s technologies to “make advanced AI development faster, easier, and less expensive” (Preimesberger). The article emphasizes that new demands arise among different companies with AI improvement and machine learning (ML) deployment. To conclude and straighten the importance of such a solution, Preimesberger refers to analysis from Gartner’s research that predicts that the Spell and Graphcore partnership will result in value capture from AI.
+
+Discussion of the Business Implications
+
+The development of AI and ML gradually affects business and probably will have a substantial influence in the future. The possibilities of AI lead to reducing costs, automation, reduction in the number of required workers, quality development, and avoiding human errors. Large enterprises such as Google, Amazon, and Microsoft use AI. Still, in this particular case, Spell and Graphcore aim to allow smaller companies to take advantage of AI and ML products. They plan to develop this field and offer a free trial for their advanced integrated technologies. Nowadays, technologies are improving rapidly; informational technologies are already used in every business field. AI and ML appear as the next step in advanced technologies that will infiltrate every field of activity with the purpose of facilitation and improvement.
+
+Personal Opinion
+
+I consider that such solutions are moving progress in the right direction. Advancing AI and ML technologies allow new opportunities that can be used in different branches of life and business. It matters because the deployment of AI may lead to overall improvement and replace the human workforce in performing physically challenging or complicated tasks, which will result in lower costs and process automation.
+
+Work Cited
+
+Preinesberger, Chris J. “ Spell, Graphcore Partner to Build Next-Gen AI Infrastructure ”. Venture Beat . 2022. Web.

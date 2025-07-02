@@ -1,0 +1,10 @@
+rcm
+healthcare
+patients
+patient care
+payment
+payments
+information
+informs
+billing
+services

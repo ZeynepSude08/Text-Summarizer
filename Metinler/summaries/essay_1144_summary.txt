@@ -1,0 +1,4 @@
+concepts of failure and reliability essay
+the probability of performance is the abstract notion behind reliability concepts abstract idea slivinski et al., 2019.
+on the other hand, they assert that predicting performance using past data may be quite wrong, with only acceptable correlations between identical models, items, manufacturing processes, and maintenance under equal operating loads and circumstances of usage being discovered slivinski et al., 2019.
+2. using the product for wrong purposes manufacturers usually indicate what a product can do and how it should be used zidi, moulahi  alaya, 2017.

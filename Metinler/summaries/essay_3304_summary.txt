@@ -1,0 +1,2 @@
+one of the healthcare projects that will call for the use of data mining is treatment evaluation.
+the basic need for data mining is to align information that is better utilized to improve the existing treatment plan.

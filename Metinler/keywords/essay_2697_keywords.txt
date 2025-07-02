@@ -1,0 +1,6 @@
+health
+relative
+related
+hospitals
+hospital
+reference

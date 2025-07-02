@@ -1,0 +1,1 @@
+binary search integers dictionary conducted recursive binary search function includes array target information. base cases binary search could first last case target original array target anarray mid target array. recursion used searching array valued void functions.

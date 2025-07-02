@@ -1,0 +1,12 @@
+wireshark is the network packet analyzer in this project, is a tool used to capture packet data in as much detail as possible.
+live packet data has now been captured, and it contains all protocol messages exchanged between your computer and other network entities.
+the http message exchanges with the urls web server that you opened on the browser should appear somewhere in the listing of packets captured.
+to analyze http packets, we consider the captured traffic in the top wireshark list pane and select and view details.
+what is the number of http packets captured?
+the number of http packets captured in the process is four due to the background processes from the browser to authenticate user logins and request protocols to configure the search engine since it is newly installed and synching of data processes.
+write the source and destination ip address of the first http packet.
+tcp packets are analyzed by observation of traffic in the top wireshark list pane.
+how many tcp packets were captured?
+at the top of the wireshark packet list pane, the second tcp packet labeled syn ack is selected.
+tcp is a connectionoriented protocol that first sets up a connection to the receiver and then sends the data in segments through the transport layer carried by ip packets.
+fill in the header details from analyzing the ip packet from wireshark.

@@ -1,0 +1,8 @@
+the primary goal of this report is to provide a complete overview of all procedures involved in conducting a realworld linear regression model as a form of research study, from generating a subject of study through carrying out a detailed quantitative model for statistical analysis and evaluating the results.
+this is detailed, focusing on the use of the linear regression model in carrying out the prediction of the housing prices for specified homes in 2019.
+on the other hand, the scatter plot refers to a form of graphic or statistical layout that displays data for various parameters for a collection of data using the coordinates from the cartesian plane.
+figure 1 the sampling data with the display of the response and the predictor variables.
+the predictorindependent variable is the square footage from the data collected, while the responsedependent variable is the house price.
+from figure 4 above, the total mean displayed from the listing price is 218, 974, mean price per square foot is 136, as indicated.
+figure 5 the graph representation of the listing price and the price per square parameters.
+the investigators find it much simpler to carry out their analysis by using the linear regression models, which play a significant role in statistics.

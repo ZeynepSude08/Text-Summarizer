@@ -1,0 +1,6 @@
+this paper will discuss a scatter plot created based on variables provided and a linear regression model to explain the variation and show the hypothesis test result.
+a scatter plot is a valuable tool for providing a simple insight into dependency between two variables.
+multiple r amounted to approximately 0,915, which is a relatively high value, and as it is above zero, it indicates a positive and strong relationship between two variables, as well as the previously explained tool, does.
+significance f value equals 0,00000437, which is considered a low one as values greater than 0,05 suggest utilizing other predictors or show that the dependence between two variables is weak bevans, 2020.
+in addition, pvalue is much lower than the significance level, which supports the claim that there is strong relationship between variables, and the null hypothesis that will be outlined further can be rejected.
+despite the small number of observations that can make such an analysiss results deceiving, all the examined indicators prove that the model is trustworthy, as the dependency is mostly explained, and the found relationship between variables is strong while also being a positive one according to the scatter plot.

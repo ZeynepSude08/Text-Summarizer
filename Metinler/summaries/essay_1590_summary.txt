@@ -1,0 +1,9 @@
+this model will be developed using retrospective data from hospitals and binomial distribution to predict if specific patients with pi have a chance of readmission to prevent such situations in the future.
+this model will be developed using retrospective data from hospitals and binomial distribution to predict if specific patients with pi have a chance of readmission to prevent such situations in the future.
+indeed, the readmission rate to hospitals is 30 higher in those with pressure wounds than without pi park et al., 2019.
+one of the essential predictors of 30day readmission in patients with pressure wounds is frequent hospital stays and comorbidities like diabetes, aids, and cardiovascular diseases table a1.
+the predictive model developed during this project can be applied to in hospital settings to estimate if a patient is at risk of pi and start preventive strategies.
+this project will develop the predictive readmission model for these individuals using retrospective hospital data and binomial distribution to build strategies to prevent pi and readmission in the population at risk.
+risk of 30day hospital readmission among patients discharged to skilled nursing facilities development and validation of a riskprediction model.
+optimizing nutrition care for pressure injuries in hospitalized patients.
+table a1 hospital readmissions for pis in patients with comorbidities chandra et al., 2019

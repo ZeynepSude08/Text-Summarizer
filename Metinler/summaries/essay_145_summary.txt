@@ -1,0 +1,3 @@
+since retailers make payments in their local currency, fluctuation in the exchange rate between myr and usd may affect our profit.
+this memorandum will review three scenarios adjusting for currency fluctuations, using a fixed rate mentioned in the contract, and avoiding currency exchange by purchasing raw materials in myr.
+at the same time, we recommend having a onetoone ratio of the u.s. dollar and myr in this market because the currency conversion brings shortterm profit at times when the value of usd rises.

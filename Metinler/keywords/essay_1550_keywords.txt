@@ -1,0 +1,14 @@
+authors
+author
+killers
+killer
+serial
+provides
+provide
+vronsky
+crime
+crimes
+homicide
+homicides
+people
+marono

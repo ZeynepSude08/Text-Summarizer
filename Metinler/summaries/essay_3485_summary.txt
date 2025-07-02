@@ -1,0 +1,3 @@
+the voltage required to stop the current is proportional to the energy emitted thus, voltage data is obtained and plotted to obtain the stopping voltage allowing the current to reach zero on the meter.
+the photoelectric effect apparatus was set up on a small stack of books making the aperture opening be 7cm above the table to line up with the mercury lamp.
+the photoelectric effect apparatus was set to zero by adjusting the knop counterclockwise with the current reading near zero while the voltage readings were high.

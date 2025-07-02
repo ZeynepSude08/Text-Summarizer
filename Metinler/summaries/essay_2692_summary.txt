@@ -1,0 +1,5 @@
+the purpose of the analysis will be to determine if the proportion of returned blenders with new switches were deferent from the proportion of blenders with old switches.
+in order to test for proportions, two independent samples of blenders need to be taken and the proportion of returned blenders need to be compared.
+the null hypothesis is that there is no significant difference between the proportions of returned blenders with new and old switches.
+the alternative hypothesis is that there is a significant difference between the proportions of returned blenders with new and old switches.
+the test results revealed that there was no significant difference between the proportions of returned blenders with new and old switches with a significance level of 0.05.

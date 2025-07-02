@@ -1,0 +1,5 @@
+sec
+time
+times
+conditions
+condition

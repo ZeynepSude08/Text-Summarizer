@@ -1,0 +1,3 @@
+a hospitalacquired pressure injury hapi is a localized injury of underlying tissue or skin that some patients suffer during their stay in a hospital.
+one of the evidencebased solutions that can be applied to reducing the rates of acquiring and developing pressure injury in elderly patients is the minimization of shear and friction.
+picot question in elderly patients with the risk of acquired pressure injury during the hospital stay, how effective is the minimization of shear and friction compared to the usage of pressure redistribution surfaces in reducing the rate of hapi development a year?

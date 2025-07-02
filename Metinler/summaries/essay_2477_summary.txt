@@ -1,0 +1,5 @@
+since tests are communicated with the engineering rd department, sifersgrayson needs operations security opsec for the test range.
+at the range testing, sifersgrayson requires opsec to safeguard the corporation and its experiment vehicles from attacks.
+the goal of opsec is to improve operational capability by securing critical but sensitive information heino  kalalahti, 2021.
+sifersgrayson should implement appropriate security controls to prevent hackers from getting access to the organizations data udipi, 2021.
+an effective attack into sifersgrayson machines could result in data leakage and a test failure at the launch facility, where there is a vehicle.

@@ -1,0 +1,5 @@
+----- ÖZET -----
+Cloud computing is a significant approach that is commonly used to deal with huge amounts of data, including unstructured data. This approach’s services are programs that are accessed over the Internet using a regular Internet browser or other network applications. The main difference from the usual method of working with software is that the users do not use the resources of their PC.
+
+----- ANAHTAR KELİMELER -----
+cloud computing advantages, advantages cloud computing, cloud computing, cloud software use, cloud software

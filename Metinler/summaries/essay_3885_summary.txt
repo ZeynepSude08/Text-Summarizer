@@ -1,0 +1,2 @@
+the server is also configured in a network by setting an internet protocol ip address and domain name system dns.
+this will enable users to access the server through a network reliably and securely.

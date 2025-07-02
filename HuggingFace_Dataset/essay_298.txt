@@ -1,0 +1,52 @@
+Ethical Dilemma: The Missing Needle Protector Report (Assessment)
+
+Table of Contents
+ 1. Background
+ 2. Case Study Summary
+ 3. Journal Article
+ 4. Communication Approaches
+ 5. Effectiveness of Actions
+ 6. Solution
+ 7. References
+
+Background
+
+Ethical dilemmas in the health care field are challenging to discuss due to the medical procedures’ long-term effect on people’s wellbeing. Health care professionals and patients have to develop a level of trust to support the recovery process for patients and the status of the hospital. Moreover, healthcare is built on such ideas as nonmaleficence and justice, and one has to approach ethical questions with these principles in mind. This paper investigates the case of a retained foreign object (RFO) and the decision-making process of the director of clinical services.
+
+Case Study Summary
+
+In the discussed case, the director of clinical services, E. L. Straight, is made aware by a supervisor that, during surgery, a surgeon potentially left a plastic needle protector inside a patient’s abdomen (Capella University, 2020). The patient, Mrs. Jameson, has been released and went home; thus, it would be difficult to bring her back for a routine check without raising any suspicion. Straight is concerned due to working in this position only for two years, while the involved surgeon, Dr. Cutrite, is one of the hospital’s most recognized and experienced professionals. Although the surgeon’s mental and physical state has declined in the last few years, he retains much political influence. Moreover, Cutrite urged the staff not to alert the patient about the RFO or do anything. In a hypothetical discussion, the chief of surgery replied that the risk of life-threatening consequences was low but unpredictable.
+
+According to the ethical decision-making model, Straight goes through three steps when considering this dilemma. The first is moral awareness, where the director recognizes that a problem exists (Capella University, n. d.). This step is guided by one’s knowledge of practices and morally beneficial and detrimental principles. The RFO is perceived as a problem based on it being a risk for the patient and the hospital, while Cutrite’s authority is seen as a barrier to resolution. Therefore, Straight immediately decides that leaving the object in the patient is wrong, applying the second step of moral judgment. The director suggests an ethical behavior based on personal moral principles – immediate surgery for Mrs. Jameson (Capella University, 2020). However, the dilemma is further complicated by other professionals’ inaction or desire to conceal the problem. Straight needs to go through the steps of the model again to develop a solution.
+
+Several individual and organizational characteristics influence the dilemma. First, Straight’s experience in the managerial position is relatively small, as the director has been employed for only two years. At the same time, Cutrite has been working longer than any other surgeon, and he retains the status of a brilliant general surgeon. The operating room supervisor has reported the problem to the director, but her attitude is rather inactive. Thus, it is possible that the hospital does not have a strong accountability culture or a standardized approach to dealing with medical errors.
+
+Journal Article
+
+The dilemma arises from the hospitals’ inadequate system for reporting and dealing with errors such as RFOs and the lacking method for assessing surgeons’ performance. In their study, Corrigan et al. (2018) examine the problem of RFOs and potential strategies for reducing and mitigating this risk. The author’s research is credible and recent, being published in a peer-reviewed journal. It is based on many other credible sources, and the researchers present statistics supporting their conclusions. Moreover, the topics discussed in the article are relevant to the present discussion as they concern dealing with RFOs. Corrigan et al. (2018) state that the issue of RFOs is multifaceted, as it harms patients, the institution, and taxpayers. The authors suggest a bow-tie system for reducing risks by analyzing contributing factors, preventative controls, mitigating controls, and outcomes. The process involves training staff about recognizing the risk of RFOs and communication channels for reporting potential errors quickly.
+
+Communication Approaches
+
+Communication plays a vital role in resolving the ethical issue in this case. Before the incident with the RFO, Straight developed new programs and analyzed surgeons’ care quality. Nevertheless, the director did not take any steps to reduce the privileges given to Cutrite. It is not stated in the case whether the two individuals discussed the surgeon’s declining health or his performance. However, Straight’s behavior demonstrates that the surgeon is not aware of possible changes to his practice. As a result, Straight’s communication approach is ineffective – the director is not transparent about medical errors or surgeons’ poor performance.
+
+Such practices as avoidance and refusal to acknowledge the problems should not be used in the organization. In contrast, Straight has to start a dialogue with the staff and encourage openness in reporting medical errors in a safe, non-punitive environment. For example, the operating room supervisor is an example of appropriately communicating concerns – she talked to the surgeon at first and then went to the higher level of management to resolve the issue. The outcome of Straight’s lack of communication is the surgeon’s refusal to operate on the patient. The medical error can also be seen as an indirect result of Straight not moving forward with restricting Cutrite’s practice in time.
+
+Effectiveness of Actions
+
+In the case study, Straight takes action by suggesting to get Mrs. Jameson back to surgery. This action could be effective as it would potentially lead to the removal of the RFO without alerting the patient. As a result, the hospital would save its reputation and ensure patient wellbeing. However, this action is impossible as the patient has been discharged; thus, Straight’s measures are ineffective.
+
+Moreover, the supervisor’s approach is also not ideal – she went to the director several days after the surgery. The check for missing objects was likely completed right after the procedure. Therefore, the supervisor either took too much time thinking about the issue or has been informed about it too late. All professionals involved in the case did not manage their professional responsibilities well. They did not report on the problems in time, prioritizing personal status over patient safety. This case shows how fear of others’ political influence can lead to significant ethical issues that put patients in danger.
+
+Solution
+
+The hospital requires substantial systemic changes to prevent such ethical problems from occurring in the future. To resolve this specific case, Straight has to talk to Cutrite and explain the risks of leaving the RFO in the patient’s body and persuade him to return the patient for surgery. Then, the director needs to implement a standardized system for preventing RFOs through communication, checks, and staff training (Corrigan et al., 2018). First, it is impossible to predict whether Mrs. Jameson is completely safe, as the surgeon insists. Second, if the patient somehow finds out about the object, the surgeon and the hospital would be at risk of a lawsuit that would damage their reputation and financial stability.
+
+If Cutrite declines to complete the procedure, Straight should call the patient anyway and appoint another surgeon for this task. The proposed solution can lead to a conflict among surgeons. Still, such action is necessary for building long-term relationships that value care quality, transparency, and skill above one’s social and political standing. It is possible that a new system of checks will require professional collaboration and increase staff participation in the hospital’s growth.
+
+References
+
+Capella University. (2020). Ethical case studies . Web.
+
+Capella University. (n. d.). Ethical decision-making model . Web.
+
+Corrigan, S., Kay, A., O’Byrne, K., Slattery, D., Sheehan, S., McDonald, N., Smyth, D., Mealy, K., & Cromie, S. (2018). A socio-technical exploration for reducing & mitigating the risk of retained foreign objects. International Journal of Environmental Research and Public Health , 15 (714), 1-17. Web.

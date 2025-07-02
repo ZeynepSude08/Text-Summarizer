@@ -1,0 +1,8 @@
+cells
+cell
+chromosomes
+chromosome
+stages
+stage
+spindle
+nucleus

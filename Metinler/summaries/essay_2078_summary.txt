@@ -1,0 +1,14 @@
+understanding what modern technological solutions can alleviate the inconvenience of monitoring blood pressure is essential in ascertaining their applicability to caring for patients with hypertension.
+second, all studies agree that the traditional method of measuring blood pressure is inconvenient, timeconsuming, and may even exacerbate the patients condition.
+caring for patients with hypertension requires constant monitoring of blood pressure.
+3. an automated blood pressure device is installed on a patients wrist.
+an automated blood pressure device is a technological element, which can significantly improve care to a patient with hypertension.
+the patient has to constantly measure his blood pressure in order to prevent the uncontrolled conditions, which are caused by constant hypertension.
+neither the patients, not their caretakers have to constantly measure blood pressure, as the device is automatic.
+when applied to this cases patient, automated blood pressure device used together with the bpt has the capacity to solve all his problems.
+even if the patient forgets about measuring his blood pressure, it will still be analyzed and sent to the electronic health records.
+the device minimizes the patients role and possible harm he can inflict to himself by refusing or forgetting to measure blood pressure.
+the proposed solution is asking the patient to consent to the use of bpt with the connected automated blood pressure device.
+as the doctor receives input from the automated blood pressure device, they will offer recommendations to the patient regarding their routine, daily activities, nutrition, and other factors influencing blood pressure.
+the solution is to use blood pressure telemonitoring, which retrieves the data from an automated blood pressure device on the patients wrist directly into the doctors office.
+automated compared to manual office blood pressure and to home blood pressure in hypertensive patients.

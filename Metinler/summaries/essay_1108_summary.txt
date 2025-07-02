@@ -1,0 +1,7 @@
+science uses systematic observation as a medium of obtaining knowledge.
+scientists make observations in a very organized manner.
+therefore, psychological science is essential for creating interventions that enhance peoples lives.
+it uses observable data to help understand and explain the world in a trustworthy manner.
+both methods make use of induction which concludes based on specific observations.
+the null hypothesis significance testing is used to assess the probability that the data collected observations would be similar if no relationship existed between the variables in the research study.
+the type 1 error is when the research concludes that there is a relationship between the variables while there is not in reality.

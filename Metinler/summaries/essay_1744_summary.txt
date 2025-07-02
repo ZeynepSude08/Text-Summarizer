@@ -1,0 +1,4 @@
+the vulnerabilities in an operating system os or implementation might arise due to various factors, such as defects in the application, whereby a software code defect might enable a malicious program to gain access to the system and seize a specified command.
+the linux daemons
+to begin with, linux consists of the systemd daemon whose principal purpose is to unify operations configuration and functionality throughout all linux distros.
+the denial of service vulnerability dos is the premeditated use of internet protocol deployment defects or the near exhaustion of the malicious activities entitys assets, intending to prevent the destination computer network from providing network services or access to specified services, the intended platform from responding or even leading to the collapsing of the operating systems legay, 2020.

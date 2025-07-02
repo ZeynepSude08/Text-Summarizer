@@ -1,0 +1,2 @@
+the latter is utilized for data exchange between the central processing unit cpu and peripherals farret et al., 2017.
+in contrast, a 64bit data bus consists of sixtyfour lines, allowing it to run twice as many data exchange processes farret et al., 2017.

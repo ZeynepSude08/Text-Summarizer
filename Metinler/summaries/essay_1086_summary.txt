@@ -1,0 +1,12 @@
+california has passed a bill to reduce the number of prisons.
+the two dependent variables are the number of prisoners and their conditions of detention.
+moreover, according to researchers, there are 9 prisoners per one employee of the penitentiary system in california bartos and kubrin 2018.
+the existing experience of reducing the number of prisons in california is of some interest to researchers.
+for example, overcrowding in california prisons is proved by calculating the population density or the number of employees per inmate bartos and kubrin 2018.
+with the reduction in the number of prisons in california, the number of people per institution has increased bird, nguyen, and grattet 2021.
+other scientists tend to think that california prisons have strict conditions of detention, but do not violate international norms bird, nguyen, and grattet 2021.
+scientists agree that it is possible to avoid overcrowding in prisons in conditions of a reduction in their number only with a decrease in the crime rate.
+the research proposal of this paper aims to study the conditions of detention of prisoners in california prisons in order to compare them with established international standards.
+dependent variables  the conditions of detention of prisoners and their number  will be used to determine the compliance of imprisonment in california with international standards.
+further, to obtain the value of another variable  the conditions of detention  it is necessary to use numerical values of the area of premises in the building, the number of employees, funding per prisoner.
+the decrease in the number of prisons in california did not lead to a solution to the problem of overpopulation, since it did not affect the cause of the problem, but only its result.

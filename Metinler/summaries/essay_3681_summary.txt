@@ -1,0 +1,3 @@
+when using mission reliability, it takes a short time to complete large amounts of work compared to onetime operational reliability which takes a long time due to quality limitations.
+the component reliability increases the mission safety while minimizing the dependability of the logistics due to the high demand rate.
+according to catelani et al., 2018, the reliability and maintenance policy should be adopted during the design and operational period to minimize failure and preserve system functionality.

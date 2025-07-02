@@ -1,0 +1,2 @@
+there are several data measurement scales which include the nominal, and their main purpose is labeling different variables with the absence of quantitative importance.
+interval scales represent the numerical data where we relate the difference between available orders and the values.

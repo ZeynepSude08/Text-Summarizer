@@ -1,0 +1,7 @@
+it is possible to anticipate the properties of materials under various loading conditions by looking at the stressstrain relationships of different metals van zijl, slowik, toledo filho, wittmann,  mihashi, 2016.
+mild steel outperformed aluminum in this testing in terms of tensile and yield strength.
+as a result, the tensile strength of the materials used in structural applications should be adequate.
+tensile tests, which apply axial or longitudinal force to a specimen with given dimensions, may be used to estimate a materials tensile characteristics.
+using the tensile load and the related extensions, the stressstrain equation of the material specimen is calculated and determined.
+in addition, to yield strength, percentage of elongation, and ultimate strength, the tensile test experiment may be used to assess additional mechanical properties of the specimen.
+mild steel is often used in many technical applications that call for high tensile strength.

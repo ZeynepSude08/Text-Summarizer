@@ -1,0 +1,3 @@
+extrapolating the measured value from the sample to the population is risky, so confidence intervals can reduce this uncertainty elmasri, 2012.
+it is well seen that as the accuracy of the confidence interval is increased up to 99, the margins are more comprehensive because the probability of being confident in the location of the actual population value is increased.
+to put it another way, the error will always grow instead of increasing the accuracy of the confidence interval, which is the necessary price to pay for getting more certainty the higher the desired accuracy of locating the actual value, the higher the probability of being wrong.

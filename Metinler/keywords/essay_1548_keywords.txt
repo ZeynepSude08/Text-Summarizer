@@ -1,0 +1,6 @@
+art
+arts
+music
+books
+book
+visual

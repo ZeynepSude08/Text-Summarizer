@@ -1,0 +1,6 @@
+despite the many tricks that attackers can use, an identity governance and administration iga solution can secure the enterprise.
+iga is a security solution and policy by which enterprises reduce the risks associated with access to information and manage identity in the company identity governance, n.d..
+employees should have a distinct level of access to different data groups classified by ownership and sensitivity, which is the basis for security.
+thus, iga offers organizations increased visibility into the identities and access privileges of users, so they can better manage who has access to what systems, and when identity governance, n.d., para.
+the described capabilities and tools as data classification, segregation of duties, and least privileges ensure that users have limited access, restricting threats.
+identity governance and administration is a complex solution for data protection.

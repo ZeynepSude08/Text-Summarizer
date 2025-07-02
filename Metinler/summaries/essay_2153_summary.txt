@@ -1,0 +1,6 @@
+this paper aims to investigate the cybersecurity weaknesses of linkedin from technological, personal, and policy perspectives.
+2019 refer to technological factors as one of the key determinants of the data breach possibility.
+according to tunggal 2021, linkedin experienced major data breaches twice, in 2012 and 2021, resulting in millions of users data being compromised.
+if weaknesses are allowed and a data breach occurs, it is essential to draw meaningful conclusions and prevent them from happening again, which was not the case for linkedin.
+moreover, in 2021, linkedin rejected the breach terminology when addressing the matter, claiming that users of the platform have not been compromised morris, 2021.
+massive data leak exposes 700 million linkedin users information .

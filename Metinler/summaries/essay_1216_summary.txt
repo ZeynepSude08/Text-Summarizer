@@ -1,0 +1,2 @@
+iot defines as a network of physical objects with builtin technologies that allow interacting with the external environment, transmitting information about their state and receiving data from the outside.
+internet of things implies connecting devices into a chain and allowing them to collect and analyze information.

@@ -1,0 +1,5 @@
+----- ÖZET -----
+The project aims to explore the questions behind people’s sexual orientation identification and the reasons behind it. Some people consider sexuality a subject of choice; others argue that the environment cannot dictate a person what sex attracts them. The following dependant and independent variables related to the topic were identified with the help of the GSS database.
+
+----- ANAHTAR KELİMELER -----
+respondent sexual orientation, sexual orientation aspects, sexual orientation, sexual orientation references, sexual orientation identification

@@ -1,0 +1,11 @@
+weeks 1012 cover contrasting topics, but they are significantly related to materials we have studied before  ethical considerations, the concept of counterfactual, research design, and other issues.
+topics discussed below include qualitative research tools, causal inference and counterfactuals, and randomized assignment.
+selecting tools for evaluation, considering the fundamental problem of causal inference, and working with the sample in the first stages significantly influence the studys success, which justifies their importance.
+as we identified in the first two weeks, two data types are used to answer specific evaluation questions  quantitative, transmitted through measurements and numbers, and qualitative, presented through language.
+the need for qualitative data and, therefore, the use of qualitative tools may arise when the focus of the evaluation is the experience of research participants edep 657, 2021a.
+at the same time, sampling strategies also differ  the evaluator can set a specific criterion for selecting participants or, conversely, include the possible number.
+in detail, assessing the causal effect means comparing the average result of a group of individuals who participated in the program with a counterfactual  the average result of the group that did not participate edep 657, 2021b.
+at the time we studied the ethical considerations of evaluations, we encountered randomized assignment.
+such features provide significant benefits of using randomized assignment for research, programs, and evaluations.
+in particular, the choice of qualitative tools that include methods for collecting data presented through language rather than measurement depends on the studys objectives and intended users.
+when the evaluation focuses on establishing causal relationships, it is vital to consider the fundamental problem of causal inference and select counterfactual relevant for the study.

@@ -1,0 +1,5 @@
+this differs from white hat hackers  security specialists who use vicious methods to find security flaws that black hat attackers can exploit kempen, 2020.
+black hat hacker activities include infusing keystroke monitoring software to steal data and beginning attacks to disable access to web sites.
+white hats, who are also called ethical or good hackers, are the opposite of black ones.
+on the other hand, white hats work with companies and help them identify weaknesses in their systems and fix relevant vulnerabilities to ensure that attackers cannot illegally gain access to data.
+white and black hat hackers .

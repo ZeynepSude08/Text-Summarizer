@@ -1,0 +1,7 @@
+conflict
+conflicting
+conflicts
+capability
+self
+effective
+effectiveness

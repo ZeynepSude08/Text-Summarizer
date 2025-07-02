@@ -1,0 +1,15 @@
+aig
+employees
+employee
+salary
+taxpayers
+taxpayer
+ceo
+ceos
+excessive salaries
+financial
+financially
+organizational
+company
+companies
+stock

@@ -1,0 +1,7 @@
+claims management and chargemaster maintenance proposal
+in the current hard economic environment, chargemaster management tools go beyond established coding standards to identify additional revenue streams.
+why they should be included in the chargemaster maintenance process
+the establishment of new process control mechanisms, definition, and enforcement of rules to enhance trustworthiness and effectiveness, and assessing an acceptable budget to operate the chargemaster, and evaluating the overall budget report are all important aspects of proactive management.
+the process of chargemaster maintenance
+a detailed process of maintaining the chargemasters comprises three phases as shown in figure 1.
+the hospital chargemaster is where providers convey medical invoices to insurers and clients.

@@ -1,0 +1,6 @@
+customer
+customers
+amazon
+online
+company
+companies

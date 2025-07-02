@@ -1,0 +1,4 @@
+this paper will form a framework to compare automatic dependent surveillancebroadcast adsb, global positioning system gps, and how the faas nextgen systemwide information shapes aircraft systems future.
+this is a more accurate system than the current radar that broadcast aircraft information like speed, location, and route to air controllers using satellite radio signals and ground stations.
+it incorporates both advancements in adsb and gps for a more secure, efficient, and resilient aircraft system that is more accurate with realtime data sharing.
+there is efficient communication of accurate data between different aircraft operators, highsecurity surveillance, and improved onboard technology.

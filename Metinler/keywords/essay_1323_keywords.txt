@@ -1,0 +1,8 @@
+medical
+hit
+patient
+patients
+service
+services
+doctors
+trends

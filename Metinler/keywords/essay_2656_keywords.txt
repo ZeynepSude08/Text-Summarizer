@@ -1,0 +1,10 @@
+john
+conflict
+conflicting
+children
+tracy
+hocker
+parties
+orientation
+elements
+female

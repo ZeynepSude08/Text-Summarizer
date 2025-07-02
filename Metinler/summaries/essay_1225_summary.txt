@@ -1,0 +1,4 @@
+the denaturation temperatures will be at their maximum peak for the dna samples with a higher g  c content composition to enable faster strand separation.
+these instances are attributed to the stability of the dna due to the high g  c content base pairing hydrogen bonds.
+the high stability raises the melting temperatures of the high g  c content dna that imminently requires higher temperatures for denaturation of the bonds and a long time to achieve the process effectively.
+therefore, factors such as a high g  c content composition and longer polynucleotide chains require higher denaturation temperatures when compared to the low g  c content dna samples.

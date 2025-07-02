@@ -1,0 +1,11 @@
+customers
+customer
+clothing
+clothes
+outdoor
+outdoors
+need
+needs
+product
+products
+y

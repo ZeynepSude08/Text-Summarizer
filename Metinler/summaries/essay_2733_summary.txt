@@ -1,0 +1,6 @@
+among the cyber kill chains steps is the weaponization stage, whereby the intruder develops a malware weapon, such as a worm or virus, to exploit the targets vulnerabilities spring  hatleback, 2017.
+wepwnise a tool used to develop vba codes  architecturedependent  utilized in office templates or documents and automates the evasion application controls and manipulate mitigation software hoffmann et al., 2020.
+countermeasures recommended for ensuring cybersecurity during the weaponization phase include training workers on security awareness and technology installation for detecting malicious software accessing the environment.
+advanced attacks beyond social engineering approaches typically emerge from web application security susceptibilities.
+detective processes for tracking outgoing and incoming traffic should also be implemented this includes intrusion detection frameworks for tcp traffic, web applications wafs, and malware assessments for emails defense strategies, n.d..
+countermeasures for ensuring cybersecurity during the weaponization phase include security awareness training and technology installation for detecting malicious software accessing the environment.

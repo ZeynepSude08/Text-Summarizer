@@ -1,0 +1,3 @@
+this paper, therefore, explains and suggests the appropriate way of distributing the machine allocated maintenance hours that would enhance machine reliability, availability, and production output.
+however, this plan gives sound production output since maintenance only takes one day making the machines available the rest of the week.
+the program increases downtime and lessens the active machine availability as the production process is stopped twice a week for maintenance.

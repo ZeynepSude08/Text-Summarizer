@@ -1,0 +1,4 @@
+king
+global
+prize
+collective

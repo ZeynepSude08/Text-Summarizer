@@ -1,0 +1,42 @@
+Analysis of Freddie Hunnard and Kenny Garrett Performance in 1985 Essay
+
+Table of Contents
+ 1. Background
+ 2. The performance
+ 3. Group interaction
+ 4. Overall reflection
+ 5. Work Sited
+
+Background
+
+In 1985, Freddie Hunnard and Kenny Garrett jazz music in a jazz fest held in Berlin, Germany. At this concert, many people were present to watch and listen to the performance they enjoyed. The performance took one hour and twenty-seven minutes. The artists are highly skilled, making the performance to be outstanding. The players are good at their work, are professionals, and play the instrument with ease. One can also see that the players are enjoying playing the instruments is clear that they like what they are doing.
+
+This performance is suitable for country music songs like Kenny Rodgers songs. The beat is fit to qualify for country music. One can see that this performance was held in a hall, making it a suitable place because it accommodated a large audience. The audience did enjoy the performance because they are clapping joyfully and the end of the performance. Artists feel supported, encouraged and, appreciated by the audience by been cheered on by their audience. It encourages them to put more effort and skills in the play to impress.
+
+The performance
+
+Jazz music has a complex harmony, syncopated rhythms, and high emphasis on improvising. Moreover, this is present in this performance. There is teamwork in the performance, and musicians are remarkably cohesive. They are working together. I have noticed that they are collaborating very well in their work. Nobody performs before time, and each person knows exactly when to act. They have excellent timing techniques. The performance was terrific, and the musicians performed very relaxed, meaning they took their time to practice. They performed in a low soft tone. They are familiar with the instruments as I have seen them playing with a good tempo. The tempo of their song is languid.
+
+Improvisation is the act of creating or performing anything unexpectedly utilizing the available resource. In performing art, improvisation is an impromptu performance that is not pre-planned or written. Improvisation ability may be used in various artistic, scientific, physical, cognitive, academic, and non-academic. It was well used in this fest, the available equipment was well utilized.
+
+Outside theater, improvisation can be found in engineering. Improvisation is solving a problem with the tools and resources that are available at that time. Guerrillas, insurgents, and criminals often use the improvised weapon. In this performance, the artists have a high quality of improvisation. This is because they were well prepared before they started the concert. In the performance, there is no single point where the players were confused about what to do, they played the instrument amazingly, and they were aware of what they were doing and the next step they were to make.
+
+Group interaction
+
+The keyboard performer for such tones requires these settings; tempo of 055 to 065, the voice of 007, style of 029 of Esurience, or 022 of Love songs. Startup is required, transpose of -2 to+2. This setting will maintain good audience participation, and this will help the audience not to fall asleep during the performance. The drum set needs to adjust to a higher tempo of hip-hop; this will also help break the concentration monotony.
+
+According to Von Stumn, a considerable body of empirical research has revealed that negative affect depressed and anxious mood is connected with poorer cognitive performance and worse cognitive flexibility. In this performance, the mood is affecting the way they perform. The artist seems to enjoy the performance because they are jovial and have a positive energy. The spirit of this performance is quite tiresome as the play is taking a long time in the concert. However, this does not imply that the commission is poor. At the end of the performance, the audience is happy, meaning they enjoyed the concert.
+
+Overall reflection
+
+This Jazz fest Berlin performance of 1885 is that it could have been a better and higher-quality performance. There are several considerations that one could have considered when planning the routine in this performance. Optimizing this performance should only be done when one is sure it is required. That may be the most crucial performance tweaking suggestion of all. One should adhere to industry-standard best practices and quickly execute one-use cases. That is not to say that one should alter any standard libraries or do complicated optimizations without demonstrating that they are essential (Jackson 27).
+
+Premature optimization in this situation wastes a lot of time and makes the code difficult to comprehend and maintain, making the performance worse. These optimizations often provide little value due to the effort spent improving non-critical components of one’s program. Following that, one may determine which parts of one’s program are excessively sluggish and need optimization. If used well in this situation, the results and the effect to the audience will be epic and mind-blowing. One can say that the optimization used in this performance was awesome given the experience of artists performing in this fest.
+
+Create a series of performance tests for the whole program. These extra test runs will assist one in identifying the functional and performance consequences of one’s modification and ensuring that one does not ship an update that is more harmful than helpful. This is particularly critical if one works on components utilized by several program portions, such as databases or caches. Concatenate strings programmatically using String Builder (Jackson 23). There are several ways to concatenate Strings in Java. One might, for instance, use a simple + or +=, or the venerable String Buffering. Which method, therefore, should one take? It is determined by the concatenation code used to join the Strings. If one adds new material to the String programmatically, for example, in a for-loop, one should use the String Builder. This further increase its efficiency since it eliminates the requirement for dynamic extends a city dynamically. This performance has that quality, yet it is lacking in detail. It must be tweaked for greater precision and performance.
+
+Primitives should be used whenever feasible. Another fast and straightforward technique to eliminate overhead and boost one’s application’s speed is to utilize basic types rather than wrapper classes. Thus, it is preferable to use into rather than an integer or a double rather than a double. This enables one JVM to store the value on the stack rather than the heap, reducing memory usage and processing time. If this Jazz fest Berlin performance had observed all these tips, they could have improved their quality to their audience, making it even better. Jazz music has always been fascinating and outstanding especially when played by experienced artists. This type of music has greatly improved since the date of performance in this concert in terms of equipment used.
+
+Work Sited
+
+Jackson, Travis A. “Jazz performance as ritual: The blues aesthetic and the African diaspora.” The African Diaspora . Routledge, 2018. 23-82.

@@ -1,0 +1,5 @@
+----- ÖZET -----
+This study operationalizes the restaurant tipping culture by focusing on the tip percentage. The study’s strengths include design transparency, implementation simplicity, and potential replication in different settings. The potential confounding variables of this experiment may be the food quality, the server's gender, the dining party's size, and whether the customers were regulars.
+
+----- ANAHTAR KELİMELER -----
+restaurant tipping culture, restaurant tipping, operationalizes restaurant tipping, tipping culture, aspects restaurant tipping

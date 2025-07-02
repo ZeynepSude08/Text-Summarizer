@@ -1,0 +1,6 @@
+this section of the paper critiques a research article modeling information systems use by managers to determine investment decisions.
+at the approval phase, the headquarters decisions will be based on the managers information status, his incentive to be informed, and the expected npv.
+the authors describe a model for approval or rejection of an investment project and test it on two assumptions and benchmark cases of ignorant and informed managers.
+the article examined a predictive model development for is use by managers.
+it develops a model for central office decisions to invest in is based on managerial informational status.
+the use of new data to test model assumptions is recommended to validate it.

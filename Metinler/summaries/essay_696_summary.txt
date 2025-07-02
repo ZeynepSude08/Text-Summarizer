@@ -1,0 +1,4 @@
+continuous data is converted to digital form using sampling resolution and quantization.
+the spatial resolution of a digitized image is affected by the sampling rate, whereas the amount of grey levels in a digital snapshot is controlled by the quantization level.
+during processing an image, the size of a sampled image is presented as a digital value torii, 2018.
+sampling contributes to a spatial resolution, and quantization gives a gray image resolution torii, 2018.

@@ -1,0 +1,8 @@
+the study by steven brunton and others at the university of washington demonstrates the use of sparse identification of nonlinear dynamics sindy.
+for instance, the discovery of kepler, although equipped with extensive and most accurate planetary data, lacked fundamental dynamic relationship description of planetary orbits brunton et al., 2016.
+, x t  is the systems state at duration t and f x t is the dynamic constraint brunton et al.,2016.
+when  is large the z dynamics are fast and the slowing manifold z x 2  y 2 .
+the work applied sparse regression in determining dynamic equations that accurately represent data.
+discovering governing equations from data by sparse identification of nonlinear dynamical systems.
+sparse identification of nonlinear dynamics sindy .
+sparse identification of nonlinear dynamics sindy sparse machine learning models 5 years later!

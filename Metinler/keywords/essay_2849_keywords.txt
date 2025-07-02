@@ -1,0 +1,9 @@
+bitcoin
+bitcoins
+price
+event
+events
+halving
+halves
+model
+models

@@ -1,0 +1,4 @@
+computer technologies embedded into anesthesia information management systems aims help certified registered nurse anesthetists crna interpret patients physiological data and deliver appropriate care using the anesthesia workstation.
+informatics applications collect data directly from the latter and transfer it to databases and documentation systems, improving other clinical functions and facilitating patient safety.
+to incorporate the concept of patient health informatics, the anesthesia department should consider aims and its embedded tools.
+implementation of cds within aims addresses documentation and clinical weaknesses of anesthesia departments by enhancing practice changes that improve financial sustainability and quality of patient care.

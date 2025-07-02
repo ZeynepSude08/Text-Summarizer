@@ -1,0 +1,4 @@
+humans utilize artificial selection to choose desired qualities in farm commodities or animals, rather than allowing species to develop and adapt naturally, as biological evolution does.
+domesticated animals influenced by artificial selection exhibit significant phenotypic changes in behavior, appearance, and biochemistry compared to their wild relatives wang et al., 2017.
+there have been approximately 1.5 million live animal species identified however, it is predicted that there are nearly 7 million species overall alaraj et al., 2020.
+classification of animal species using neural network.

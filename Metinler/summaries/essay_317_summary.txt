@@ -1,0 +1,20 @@
+it is divided into various segments, which include an overview of the information system, a description of the primary tasks undertaken during implementation, and a list of the resources required such as personnel, hardware, software, and other materials and facilities.
+the primary purpose of this document is to provide an outline of events and steps that the project team will follow during farcargos system implementation.
+the farcargo information system shall require the development of a website, a desktop application, and an android application.
+the systems server shall be operated by farcargos information management staff from the facility.
+the farcargo information system shall be implemented using the agile approach whereby the process shall be broken into smaller manageable tasks.
+1. planning for the project development               project manager                                                              documentation of all users needs, resources required, and time needed to complete each task
+1. write and test program codes for the project       website development manager, database administrator, configuration manager,  development of an efficient system                                                          
+1. project implementation                             site installation representative, program manager                            successfully installation of the system that addresses all users needs                     
+1. training and providing support                     project manager                                                              all users are competent and satisfied                                                       
+planning for the project development                            project manager                                                              17022022  31032022  6 weeks   
+write and test program codes for the project                    website development manager, database administrator, configuration manager,  4042022   7042022   3 months  
+project implementation                                          site installation representative, program manager                            11072022  1082022   3 weeks   
+training and providing support                                  project manager                                                              3082022   19082022  2 weeks   
+during the implementation of the farcargo information system, support from elements such as software, hardware, facilities, materials, equipment, and personnel shall be required.
+the implementation team shall require physical facilities during this task.
+as this is an information technology it development project, the staff required are it experts in various fields.
+the project managers services shall be required from the initiation to the termination period which is about 9 months.
+site installation representative degree in project management with two years experience
+team members degree in project management
+the it team will use project management software to update and keep track of various sections of the project.

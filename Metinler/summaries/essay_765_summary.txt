@@ -1,0 +1,2 @@
+therefore, the newly selected price is 65, which is still almost twice as high as the cost per unit, and the expected profit from each bag is equal to 29.
+many lowend bags have prices below 65, but the selected product is made from leather and can be categorized as a midrange, and thus, it cannot be lower than 65.

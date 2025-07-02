@@ -1,0 +1,9 @@
+the research topic of refractory superalloys presents many interesting challenges on how to improve the qualities of the existing materials of gas turbines.
+currently, the refractory high entropy superalloys are still being researched by scientists, yet there are already organizations which are interested in the use of such materials, including the air force.
+another important issue which will be studied during the research is how stable the material will be during the period of exposure to a high temperature.
+the field of micromechanics is still emerging and developing, but it has already enabled researchers to make considerable progress in their understanding of the structures of different materials on their micro and nanoscale.
+for instance, in order to study the strength of certain materials such as nickelbased superalloys, researchers utilize micromechanical modeling.
+after conducting such experiments, the researchers discovered that the strain parameter was the most important one for the strength of the material.
+the researchers also utilized mechanical modeling in their study of the materials used in nuclear fusion reactors, namely, the refractory metals.
+specifically, the researchers conducted a solidstate synthesis, quenching, and annealing in order to improve the ionic conduct of the material.
+as a result of the experiment, the researchers were able to achieve one of the highest values in terms of ionic conduct for a solidstate electrolyte material.

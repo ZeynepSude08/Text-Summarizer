@@ -1,0 +1,10 @@
+species
+al
+web
+animals
+animal
+breed
+breeds
+wang
+humans
+human

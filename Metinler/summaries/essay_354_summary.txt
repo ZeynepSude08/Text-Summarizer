@@ -1,0 +1,2 @@
+should use the weighted moving average to forecast the most likely level of sales.
+the weighted moving average used four weights to determine the likely level of sales in the next month.

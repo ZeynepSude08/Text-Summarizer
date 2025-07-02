@@ -1,0 +1,4 @@
+confidence limits and hypothesis testing are some of the key components of statistical testing that are used in healthcare administration for different purposes.
+when speaking about hypothesis testing, it is necessary to mention the two types of errors healthcare assistants may face while trying to establish the validity and relevance of a particular statement.
+hence, doctors should not consider confidence limits and hypothesis testing as the only medical research methods.
+hence, confidence intervals and confidence limits, in particular, are used to estimate sampling parameters, while hypothesis testing is a method that shows whether the hypothesis is reliable or not.

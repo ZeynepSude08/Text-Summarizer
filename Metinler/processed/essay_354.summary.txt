@@ -1,0 +1,1 @@
+use weighted moving average forecast likely level sales. weighted moving average used four weights determine likely level sales next month.

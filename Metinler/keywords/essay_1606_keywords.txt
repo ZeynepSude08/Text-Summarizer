@@ -1,0 +1,4 @@
+schools
+school
+court
+courts

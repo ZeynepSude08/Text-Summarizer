@@ -1,0 +1,38 @@
+Analysis of Heart Failure: Diagnosis and Treatment Essay
+
+Table of Contents
+ 1. Background
+ 2. Systolic Heart Failure Overview
+ 3. Diastolic Heart Failure Overview
+ 4. Pathophysiology
+ 5. References
+
+Background
+
+Heart failure (HF) is one of the leading causes of hospitalization among older adults and, if left unchecked, might lead to lethal outcomes. It is a chronic syndrome associated with abnormalities of cardiac function, generally prevalent on the left side of the heart (Arrigo et al., 2020). There are approximately 6 million Americans with the diagnosed varieties of HF, who require continual medical services (Charles, 2021). The current paper examines the two types of HF – systolic and diastolic – and explains the differences between the varieties based on the case study.
+
+Systolic Heart Failure Overview
+
+Of the two types of HF, systolic HF or HF with Reduced Ejection Fraction (HFrEF) occurs slightly less frequently. As seen from the name, it occurs when the heart’s left ventricle becomes weakened and cannot pump the necessary amount of blood (Charles, 2021). The two primary causes of heart failure, in general, are hypertension and coronary artery disease, while myocarditis, cardiomyopathy, and valvular heart disease are unique to HFrEF (Rivera & Menaker, 2017). Some of the symptoms include chest pain, fatigue, nausea, shortness of breath, swelling, coughing, and other associated signs (Charles, 2021). However, it is essential to conduct a physical examination, electrocardiography, and tests to establish an accurate diagnosis.
+
+Diastolic Heart Failure Overview
+
+Diastolic HF or HF with Preserved Ejection Fraction (HFpEF) occurs due to the stiffness of the left ventricle. The heart maintains its entire capacity to contract; however, during HFpEF, blood vessels lose elasticity, which leads to a lack of available blood (Charles, 2021). The common causes unique to diastolic HF include diabetes, obesity, and a sedentary lifestyle (Charles, 2021). Most of the symptoms of HFpEF are similar to HFrEF, and a more thorough examination is required.
+
+Pathophysiology
+
+Consequently, it is crucial to discuss the pathophysiology of the condition based on the case study. The patient demonstrates the common symptoms of HF, such as fatigue, chest pain, swelling, and shortness of breath. Furthermore, the medical history reports hypertension (a common cause of both HF types), but also high cholesterol and Type 2 diabetes, which are more prevalent in diastolic HF (Rivera & Menaker, 2017). An elevated heart rate of 110 bpm and a very low ejection fraction of 25% imply a severe degree of heart failure and direct risk to a patient’s life (Oh & Cho, 2020). Furthermore, 69% of HFrEFs and 77% of HFpEFs are associated with increased BP, which is another direct sign of HF (Oh & Cho, 2020). The decreased wall motion found by echocardiogram signals HFpEF due to the increased stiffness of the anterior wall (Plitt et al., 2018). Consequently, an emergence of a third heart sound or S3 and elevated jugular venous distention are definitive symptoms of both HF types (Rivera & Menaker, 2017). Ultimately, the patient demonstrates obvious signs of heart failure and, most likely, an HFpEF sub-type.
+
+Other symptoms include dyspnea on exertion, pitting edema, jugular vein distention, and orthopnea. Dyspnea on exertion is a common symptom for both types of HF (Rivera & Menaker, 2017). Jugular vein distention and orthopnea are also frequent signs of both types of HF (Rivera & Menaker, 2017). On the other hand, pitting edema implies diastolic dysfunction, as blood continues to fill the right side of the heart during HFpEF, resulting in pitting edema in the legs (Rivera & Menaker, 2017). Ultimately, while both varieties of HF are similar and are frequently complicated to distinguish, the patient most likely suffers from HFpEF.
+
+References
+
+Arrigo, M., Jessup, M., Mullens, W., Reza, N., Shah, A. M., Sliwa, K., & Mebazaa, A. (2020). Acute heart failure. Nature Reviews Disease Primers , 6 (1), 1-15.
+
+Charles, S. (2021). Systolic vs. diastolic heart failure. Very Well Health. Web.
+
+Oh, G. C., & Cho, H. J. (2020). Blood pressure and heart failure. Clinical hypertension , 26 (1), 1-8.
+
+Plitt, G. D., Spring, J. T., Moulton, M. J., & Agrawal, D. K. (2018). Mechanisms, diagnosis, and treatment of heart failure with preserved ejection fraction and diastolic dysfunction. Expert Review of Cardiovascular Therapy , 16 (8), 579-589.
+
+Rivera, L. A. J., & Menaker, J. (2017). Systolic and diastolic heart failure. ReliasMedia. Web.

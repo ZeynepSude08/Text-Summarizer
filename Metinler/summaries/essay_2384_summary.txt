@@ -1,0 +1,6 @@
+this is exactly what is needed by linkedin, as breaches in dnssec and api may allow unauthorized users to access highlevel objects within the system.
+the noninterference framework appears more secure for such sensitive data.
+even though it is often perceived as excessively strict, this level of protection will benefit linkedin amid the aftermath of data breach scandals.
+as per the companys data policy, the search for economic opportunities is to be safe and secure so that both users and employers trust the platform linkedin, 2021b.
+in addition, the terms of the service naturally discourage users from illegally obtained data manipulation.
+appendix b lists the key security aspects of an envisaged linkedin cybersecurity framework.

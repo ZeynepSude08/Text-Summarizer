@@ -1,0 +1,1 @@
+by substituting specific values, two bounds, lower and upper, beyond which the outliers are found, can be found for any numerical data set.

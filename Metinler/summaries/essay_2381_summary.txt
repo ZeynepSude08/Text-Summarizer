@@ -1,0 +1,8 @@
+assuming that yorktown system group maintained its culture of hiring a high number of veterans, the analysis compares different employee behavior with its competitors.
+in the last years, that is, between june 2019 and june 2021, yorktown systems group has hired over 127 employees linkedin, 2021.
+based on the company culture, a ratio of 955 was created to categorize the veterans and nonveterans among the hired employees.
+from the ttest two sample assuming equal variances, the pvalue was less than 0.05 hence the null hypothesis was rejected, and the alternative hypothesis that states there is a significant difference between hiring rate for the veterans and nonveteran employees within yorktown systems group.
+this indicates that the number of veteran employees within the company is significantly higher compared to nonveteran employees.
+yorktown systems group is rated 4 out of 5 by its employees growjo, n.d..
+the company has a growth rate of 6 percent in terms of the number of employees, which is the highest growth rate compared to its competitors craftco., n.d..
+this implies that yorktown systems group is investing in the veterans and providing the best work culture for its employees.

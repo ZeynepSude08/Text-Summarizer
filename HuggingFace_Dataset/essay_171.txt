@@ -1,0 +1,46 @@
+Chickenpox Virus: Classification, Symptoms, and Statistics Essay
+
+Table of Contents
+ 1. Classification
+ 2. Infection
+ 3. Symptoms
+ 4. Forms of Chickenpox
+ 5. Stopping the Reproduction of the Virus
+ 6. Statistics of the Virus
+ 7. Works Cited
+
+Classification
+
+According to Gabutti et al., the causative agent of chickenpox, the Varicella-Zoster virus, belongs to the 3rd type of viruses from the Herpesviridae family, a subfamily of type 3 α-viruses, and contains DNA. It has the shape of an icosahedral capsid (shaped like spheres). Gerada et al. assert that the size of the virion reaches 150-200 nm in diameter. It is similar in properties to the herpes simplex virus and is indistinguishable from the causative agent of herpes zoster. The virus’s outer shell contains a double layer of lipids and is a derivative of the nuclear envelope of the host cell. Between the capsid and the outer shell of the virus are matrix proteins.
+
+Infection
+
+This virus does not have its apparatus for the synthesis of organic molecules. Therefore, for self-replication, it uses the resources of the host cell. The primary target cells are the mucoepithelia (Gabutti et al. 16). In turn, the main location of latency is the sensory and cranial ganglia. The penetration of the varicella-zoster virus into the cell occurs by the interaction of the virus with receptors on the cell membrane. Connecting to the receptor, the virus loses part of its shells, moving to the cell nucleus. In the nucleus, the actual reproduction of the virus occurs – DNA replication. One cell produces several million viruses. After the assembly of new DNA, the synthesis of virus shells occurs – the nucleocapsid, tegument, and supercapsid. To build them, the virus uses the membrane of the nucleus of the affected cell, violating its integrity. Due to damage, the cell fills with fluid and soon dies. Thus, the virus infects the nuclei of cells with the formation of eosinophilic intranuclear inclusions and can cause the formation of giant multinucleated cells.
+
+Symptoms
+
+The disease usually begins acutely with fever and rash on the skin, scalp, and mucous membranes. Kennedy and Gershon note that sometimes the disease begins with a short prodrome, manifested with subfebrile temperature and deterioration of health. The rash occurs within 3-4 days, sometimes longer. The primary element of the rash is a small spot or papule, which very quickly, after a few hours, turns into a vesicle with hyperemia around it. Since chickenpox rashes do not appear all at once but at intervals of 1-2 days, elements of rashes at different stages of development can be simultaneously seen on the skin.
+
+Forms of Chickenpox
+
+According to Kennedy and Gershon, there are three typical forms of chickenpox. With a mild form, the general condition of the patient is satisfactory. The temperature is sometimes normal but more often subfebrile, rarely exceeds 38 °C. Rashes on the skin are not abundant, on the mucous membranes – in the form of single elements. The duration of the rash is 2-4 days. The moderate form is characterized by slight intoxication, fever, rather abundant rashes, and itching. The duration of the rash is 4-5 days. The temperature normalizes as the vesicles dry up and the patient’s well-being improves. The severe form is characterized by a profuse rash on the skin and mucous membranes of the mouth, eyes, and genitals. The high temperature, vomiting, lack of appetite, poor sleep, anxiety due to severe itching are observed. The duration of the rash is 7-9 days.
+
+Stopping the Reproduction of the Virus
+
+For many years, except for immunosuppressed patients, VZV infections have been treated symptomatically with acetaminophen and drugs to relieve itching. Gerada et al. affirm that such methods as calamine lotion, cool baths with baking soda or colloidal oatmeal, and over-the-counter pain medications, including acetaminophen (Tylenol), are used to reduce itching and discomfort.
+
+Nowadays, antiviral drugs are widely used, which are effective, well-tolerated, and can be given orally. According to Gabutti et al., these include valaciclovir and famciclovir. Moreover, a doctor may prescribe the Acyclovir (Zovirax) to reduce the duration and severity of symptoms. Acyclovir reduces the rate at which the varicella-zoster virus replicates in the body. Gerada et al. report that adults who took acyclovir within 24 hours of discovering a chickenpox rash experienced less severe symptoms and symptoms that lasted for a shorter time compared to people who did not take acyclovir.
+
+Statistics of the Virus
+
+The varicella vaccine has been publicly available in the United States since 1996. Before a vaccine was available, about 4 million people developed chickenpox each year in the United States, more than 10,500 of those people were hospitalized, and about 100-150 people died (Gabutti et al. 18).
+
+After vaccination, these outbreaks were smaller and shorter in duration. Fewer than 350,000 people contract the disease per year and that fewer than 1,700 hospitalizations and 20 deaths occur each year from chickenpox (Gabutti et al. 18). Most cases associated with the outbreak occurred in unvaccinated people. Notably, in these outbreaks, most vaccinated patients had mild disease. Although the prevalence of the disease has dropped dramatically since the introduction of the varicella vaccine, gaps in vaccination have allowed dangerous and sometimes fatal outbreaks. To prevent future outbreaks, it is critical that the public health community determine the best ways to encourage vaccination and reduce non-vaccination.
+
+Works Cited
+
+Gabutti, Giovanni et al. “ Varicella Zoster Virus Vaccines: An Update. ” ImmunoTargets and Therapy, vol. 8, 2019, 15-28. Web.
+
+Gerada, Chelsea et al. “ Manipulation of the Innate Immune Response by Varicella Zoster Virus. ” Frontiers in Immunology, vol. 11, no. 1, 2020. Web.
+
+Kennedy, Peter G.E., and Anne A. Gershon. “Clinical Features of Varicella-Zoster Virus Infection.” Viruses, vol. 10, no. 11, 2018, 609. Web.

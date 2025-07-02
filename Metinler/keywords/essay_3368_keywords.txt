@@ -1,0 +1,5 @@
+karma
+person
+personal
+implies
+implying

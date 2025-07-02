@@ -1,0 +1,2 @@
+gabriel chodorowreich and john coglianeses article, projecting unemployment durations a factorflows simulation approach with application to the covid19 recession, was published in the journal of public economics on march 5, 2021.
+i like the chodorowreich and coglianese study because the authors propose a new threestage factor flow modeling approach to predict the duration distribution of unemployment.

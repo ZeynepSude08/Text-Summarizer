@@ -1,0 +1,4 @@
+bears
+bear
+service
+species

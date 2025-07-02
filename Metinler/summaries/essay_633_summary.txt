@@ -1,0 +1,9 @@
+while qa is based on how a technique is performed, qc focuses on the inspection attribute of quality management.
+this paper aims to analyze the various vital roles that qa and qc play in the maintenance operation, focusing on aspects such as inspection, auditing, safety, and compliance.
+similarly, qa in the aviation industry is regarded as an effective system that helps monitor and inspect procedures, programs, and aviation equipment to ensure state civil and icao aviation regulatory requirements are adhered to nsien, 2020.
+both qa and qc provide essential background for inspecting the various aviation equipment, programs, and procedures to ensure that all maintenance in the aviation sector is undertaken correctly based on the manufacturers needs.
+usually, aviation firms deploy a qa inspector tasked with inspecting aircraft, thus ensuring that there is the maintenance of procedures and aiding in the air navigation processes within the aviation sector baker, 2018.
+qa covers all aspects of aviation qc, from equipment and systems inspection to process audits to guarantee compliance to all icao and statelevel civil aviation regulation bodies standard criteria, thus ensuring safety.
+in conclusion, the paper has analyzed the various vital roles that qa and qc play in the maintenance operation, focusing on aspects such as inspection, auditing, safety, and compliance.
+additionally, an aca qa and qc audit is a planned and formal assessment to determine whether or not the aviation processes, policies, procedures, and contractual obligations are in accordance with acas quality standards.
+qa and qc procedures are also essential in maintaining safety and compliance of the aviation practices to the faa and aca policies.

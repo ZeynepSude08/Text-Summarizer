@@ -1,0 +1,13 @@
+trends in embedded systems research paper
+various fields and platforms have received an increased application of embedded systems, providing increased flexibility for interfacing communication protocols de micco et al., 2019.
+2018, major components of an embedded system include integrated chips, printed circuit board assembly, industryspecific interfaces and protocols, realtime operating systems rtos, and microcontrollers or digital signal processors.
+the latest trends in the embedded system include soc, iot, wireless connectivity, power consumption, multicore processors, and operating systems.
+current trends in wireless connectivity for applications in embedded systems include shortrange protocol applications, reduced power utilization, systemonchip architecture, and the internet of things.
+there has been an increasing need for high performance in embedded systems due to additional functionalities.
+in the near future, to achieve multiprocessing functionalities by embedded systems, there could be a need for migrating existing systems to multicore platforms jayaprakasam et al., 2017.
+because of risking security attacks, embedded systems components such as applications, operating systems, and processors require having better security features to handle security challenges and preserve personal and professional information.
+the increased functionality of embedded systems has enhanced its application to national defense, aerospace, automotive electronics, industrial controls, consumer electronics, and communications.
+mobile devices, networks, and realtime applications make embedded systems highly important.
+some of the contributors to the trends in embedded systems include the increasing growth of aerospace, consumer electronic applications, military, and healthcare.
+therefore, the trends in embedded systems focus on developing systems that are energy efficient and less costly patil  tupe, 2020.
+it is depicted that embedded systems are evolving, focusing on increasing performance speeds, developing cybersecurity systems, less power consumption, and costefficient.

@@ -1,0 +1,5 @@
+families
+family
+declined
+declining
+decline

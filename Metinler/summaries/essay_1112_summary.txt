@@ -1,0 +1,22 @@
+the streaked organism was then incubated at 37 0 c until the next lap period to prepare the bacteria for biochemical tests.
+for unknown 43, the following tests were performed gram stain, thioglycolate, oxidase, catalase, citrate, indole production, and ornithinedecarboxylase test.
+for unknown 15, the tests performed were gram stain, thioglycolate, oxidase, catalase, onpg bgalactosidase, and indole production.
+gram stain test began with the bacterial smear at fixed heating on an inoculated slide containing a colony of bacteria culture in a small volume of water.
+oxidase test was performed by inoculating bacteria culture onto an oxidase disc upon which kovacs reagent was added on top, and then observation made on the color changes.
+the test was conducted by streaking bacteria onto the tsa slant and growing it at 37 0 c for 48 hours, after which hydrogen peroxide was added.
+citrate test was done by streaking the slant back and forth with a light inoculum containing bacterial colony and then incubated aerobically at 37 0 c for 96 hours beaman et al., 2007.
+the indole production test was performed by first growing the organism using a tryptophan medium beaman et al., 2007.
+the test was conducted by putting the inoculum of culture 43 aseptically into ornithine decarboxylase broth and then incubated for 48 hours at 37 0 c and an observation made on color changes.
+upon completing all the experimental tests, unknown organisms were identified following pcrblast, dichotomous keys using the bergeys whitman et al., 2016, streak plate isolation, and biochemical tests.
+for unknown organism 15, a gram stain, thioglycolate test, oxidase test, and indole production were all negative, and positive for catalase test and onpg bgalactosidase test.
+to identify the identity of the unknown organism, the test results were followed using a dichotomous key, which identified unknown organism 15 to be c.
+test result for organism 15
+thioglycolate test            no color change                                 the organism does not oxidize.
+oxidase test                  no color change on the culture                  absence of aerobic bacteria                                                                    
+the result for unknown organism 43 was negative for gram stain, thioglycolate test, and oxidase test, while a positive result was observed in the catalase test.
+test result for organism 43
+thioglycolate test            no color change                                  the organism does not oxidize.
+oxidase test                  no color change on the culture                   absence of aerobic bacteria                                           
+citrate test                  no color change                                  absence of enzyme citrate permease in the organism                    
+the existence of indole in the biochemical test exhibited the release of tryptophanase enzyme by the bacteria, and it was showed by the pink color that settled when the medium was added kovacs reagent in 43.
+after 48 hours the yellow color changed back to purple showing positive test results for ornithine decarboxylase enzyme.

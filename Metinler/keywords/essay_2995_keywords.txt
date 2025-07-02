@@ -1,0 +1,5 @@
+city
+local
+tourist
+tourists
+jersey

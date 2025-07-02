@@ -1,0 +1,13 @@
+hofmann
+artist
+artists
+painting
+paintings
+uses
+use
+landau
+shapes
+shape
+art
+colors
+color

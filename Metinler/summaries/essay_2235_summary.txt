@@ -1,0 +1,7 @@
+the independent variable is the amount or frequency of opioid medication taken, which will determine how well student veterans integrate into learning dependent variable.
+the reliability of the independent variable measurement should be determined by scientifically valid scales of satisfaction, stress, and others beidas et al., 2015.
+since a set of dependent variables is being measured, the anova test is preferable to the paired ttest.
+these mainly concern the nature of the mutual relationship between the independent variable and the dependent variable and the reliability of the measurements.
+this can be assessed by performing a linear regression separate analysis of the independent variable and the assessed satisfaction, stress, and so on.
+when using ols, the regression coefficient is usually a statistical relationship between the two variables under study.
+finally, for binary studies that measure the binary dichotomous dependent variable, logistic regression should be used instead of ols.

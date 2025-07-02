@@ -1,0 +1,15 @@
+my role in the service would be to prepare the project management plan to implement the innovation.
+the agile approach helps introduce ai innovations because it guarantees the projects adaptability to changes, following five stages of change, and the ability of communication, collaboration, and trust to influence the product.
+project management plays an essential role in the process of planning the implementation of innovation.
+the most common approaches to project management include traditional and agile methods of implementation, which differ in their structure.
+the agile approaches are more popular among managers because these methods make the projects more flexible.
+in particular, a flexible strategy allows managers to make changes when other interconnected components of the project change their course or do not correspond to the predictions mergel, ganapati, and whitford, 2020.
+consequently, the flexible model is suitable because it allows the manager to make necessary changes during the projects implementation holden, boustani, and azar, 2021.
+the project requires the organization of a specific team, which should include healthcare workers, managers, data scientists, and engineers glazkova, fortin, and podladchikova, 2019.
+communication, collaboration, and trust are the most significant human elements in the agile project of implementing ai in healthcare settings.
+thus, agile strategies would make the project successful because they make the plan adaptable, divided into five specific stages, and effective due to communication, collaboration, and trust.
+international journal of project management , 358, pp.16391654.
+international journal of project management , 391, pp.1020.
+international journal of project management , 358, pp.16581672.
+collaborative agile learning in online environments strategies for improving team regulation and project management.
+project management journal , 501, pp.622.

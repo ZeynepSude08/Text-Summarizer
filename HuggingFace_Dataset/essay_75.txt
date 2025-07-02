@@ -1,0 +1,49 @@
+Anatomy of the Pituitary Gland Research Paper
+
+Table of Contents
+ 1. Overview
+ 2. Hormones of the Gland
+ 3. Anterior Lobe Hormones
+ 4. Posterior Lobe Hormones
+ 5. Summary
+ 6. References
+
+Overview
+
+The pituitary gland is a major gland of the endocrine system. It excretes hormones in charge of other endocrine organs and different tissues within the body. It is approximated to be a third of an inch in diameter and found at the base of the brain. In addition to that pituitary and hypothalamus are located close to each other because they have intertwined functions. They are joined by the pituitary stalk or, more biologically, the infundibulum. The pituitary glands are composed of the posterior lobe and anterior lobe (Peate & Nair, 2017). The posterior lobe is not responsible for the production of hormones by itself. However, hormone production is done by nerve cells in the hypothalamus and posterior lobe, releasing them to circulation by the pituitary gland. On the other hand, the anterior lobe is responsible for excreting many hormones.
+
+Hormones of the Gland
+
+The pituitary gland hormones usually signal other endocrine glands to inhibit or stimulate their hormone manufacture. This section aims to discuss anterior and posterior lobe hormones, explain what triggers the release of these hormones, identify characteristics these hormones have in common, and classify which hormones are considered tropic hormones.
+
+Anterior Lobe Hormones
+
+The interior lobe releases hormones after getting inhibiting hormones from the hypothalamus. These hypothalamic hormones are responsible for notifying the anterior lobe if it should release more of a particular hormone or stop the manufacture of the hormone (Nagata et al., 2019). The hormones produced by the anterior lobe after being notified are discussed below.
+
+  * Prolactin hormones – These are hormones responsible for stimulating breast milk production.
+  * Adrenocorticotropic hormones (ACTH) – These are hormones that stimulate the adrenal gland to produce hormones.
+  * Thyroid-stimulating hormones (TSH) – These are hormones that stimulate the thyroid gland to manufacture hormones.
+  * Growth hormones (GH) are crucial hormones in the early years of humans because they maintain healthy body composition and growth in children. In adults, GH helps in healthy muscle and bone and distributes fat.
+  * Follicle-stimulating hormones (FSH) – These are hormones that work closely with LH to ensure that ovaries and testes are functioning normally.
+  * Luteinizing hormones (LH) – These are hormones that work with FSH to ensure that the testes and ovaries operate normally.
+
+Posterior Lobe Hormones
+
+The posterior lobe has nerve cells that are from the hypothalamus. The hypothalamus transmits hormones direct to the posterior lobe through the nerve cells, as well as the pituitary gland releases the transmitted hormones (Chapman, Singhal, Gaddamanugu & Prattipati, 2020). The hormones discussed below are contained in posterior lobe hormones.
+
+  * Oxytocin – These are hormones involved in different procedures such as stimulating breast milk production and contracting the uterus during childbirth.
+  * Anti-diuretic hormones (ADH) – These are hormones that make kidneys increase water absorption in the blood.
+
+The release of hormones can be triggered by neurological stimuli, changes in the blood, or by the action of other hormones. For instance, the endocrine glands excrete different types of hormones that control the development and regulation of the reproductive system (Peate & Nair, 2017). This type of action by the endocrine gland triggers the production of various hormones. All the hormones due to this have similar characteristics, such as low molecular weight. They are water-soluble, transported to target cells through circulation, and chemical entities produced by special cells of endocrine glands. Although they have similar characteristics, their classification is different such that TSH, ACTH, GH, FSH, and LH are classified as tropic hormones.
+
+Summary
+
+In some instances, the pituitary gland is also referred to as the master gland because it controls the functions of many of the other endocrine glands. The gland is also attached to the hypothalamus by nerve fibers and blood vessels (Nagata et al., 2019). However, this perspective can be misleading and incorrect because some individuals might think this gland does not receive instructions from other glands. The reality is that it receives signals from the hypothalamus to release more pituitary hormones.
+
+References
+
+Chapman, P., Singhal, A., Gaddamanugu, S., & Prattipati, V. (2020). Neuroimaging of the Pituitary Gland. Radiologic Clinics of North America , 58 (6), 1115-1133. Web.
+
+Nagata, Y., Takeuchi, K., Yamamoto, T., Ishikawa, T., Kawabata, T., & Shimoyama, Y. et al. (2019). Peel-off resection of the pituitary gland for functional pituitary adenomas: pathological significance and impact on pituitary function. Pituitary , 22 (5), 507-513. Web.
+
+Peate, I., & Nair, M. (2017). Fundamentals of anatomy and physiology for nursing and healthcare students (2nd ed., pp. 479-510). New Jersey: Wiley Blackwell.

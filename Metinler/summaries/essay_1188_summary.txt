@@ -1,0 +1,18 @@
+this work articulates tools used in this process analysis techniques applied to innovative solutions, causeandeffect approach to risk evaluation, and strategies of investment decision analysis.
+descriptive analytics entails the technique focused on analyzing past data, providing insights that can assist organizations in making decisions.
+descriptive analytics can help with various population management tasks such as health data analytics el morr  ali hassan, 2019.
+datadriven predictive analytics models detect patterns or relationships in historical data and then project the discovered relationships into the future greasley, 2019.
+decisionmakers can effectively apply predictive analytics by performing the process of data mining and hypothesis testing dinesh kumar, 2017.
+the occurrence of data loss has resulted in catastrophic impacts, most notable including disruption of the organizational activities in terms of daytoday operations.
+several risks have been associated with data loss, which has proved costly for the organization to manage.
+additionally, human access to machines can be controlled to manage intentional actions of individuals on data loss.
+computer theft is the second humanrelated action that results in data loss.
+it entails an actual loss of machines containing crucial data of the organization.
+often, an employees loss of their laptop results in the subsequent loss of data or breach in security ponemon institute llc, 2018.
+the occurrence of viruses commonly results in increased loss of data due to the destruction of the operating system.
+damage to hardware may result in a total loss of data.
+140,000 drives crash daily, resulting in a total loss of data stored on them, which indicates the vulnerability of this method  mohammed, ambak, mosa,  syamsunur, 2019.
+to prevent data loss that results from hard drive damage, additional secondary storage should be attached to the system while keeping backup constantly and periodically.
+power is critical in every organization an outage resulting in a sudden shutdown of servers and personal computers could result in total data loss.
+for instance, floods, earthquakes, and tsunamis may directly result in the machine destruction and total loss of data.
+furthermore, it identified data loss as the only problem and elucidated several causes.

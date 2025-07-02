@@ -1,0 +1,6 @@
+web
+customer
+customers
+stores
+amazon
+walmart

@@ -1,0 +1,3 @@
+the android studio project building is separated into two files, java and xml, because these enable one to develop apps using both the two files.
+java and xml files each perform a different role in android app development.
+when one wants an app to appear in a certain way then xml file becomes of great use in android studio project building.

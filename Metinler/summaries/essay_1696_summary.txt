@@ -1,0 +1,7 @@
+supply chain demand forecasting and big data analytics essay
+the paper reports on a survey that was conducted to examine the predictive bda applications in supply chain demand forecasting to suggest a categorization of the applications.
+demand forecasting is an area in predictive analytics that attempts to comprehend as well as foresee consumer demand to optimize supply decisions by corporate supply chain plus business management.
+this is a survey that aims to examine predictive big data analytics in supply chain demand forecasting to recommend or suggest a categorization of the applications.
+the authors conducted a detailed review of the big data analytics applications in supply chain demand prediction in the study.
+to predict demand in a supply chain, various predictive big data analytics algorithms have to be applied.
+predictive big data analytics for supply chain demand forecasting methods, applications, and research opportunities.

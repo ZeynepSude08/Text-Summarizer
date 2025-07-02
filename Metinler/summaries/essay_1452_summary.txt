@@ -1,0 +1,2 @@
+the selected article by bennell and canter 2002 uses statistical models to link commercial burglaries by modus operandi to specific offenders.
+linking commercial burglaries by modus operandi tests using regression and roc analysis.

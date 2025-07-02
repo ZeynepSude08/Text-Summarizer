@@ -1,0 +1,4 @@
+hospital readmissions, diabetes discovery, patient costing performance were the visualizations i investigated due to their general importance in the modern healthcare system and due to the amount of wellpresented information they offer.
+for instance, in hospital readmissions, qlik sense provides us geospatial hrrp analysis, which can help understand trends in healthcare related to proximity hospital readmissions, n.d..
+visualizations, presented in qlik sense, can offer us access to unique pieces of information, which can help in the identification of several issues and discover trends that are currently presented in different fields of the healthcare systems.
+the patient costing graphics, thus, becoming a powerful and unique tool in analyzing different aspects of healthcare, such as the performance of physicians and the costliest sections of the system.

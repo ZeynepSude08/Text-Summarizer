@@ -1,0 +1,14 @@
+app
+apps
+employee
+employees
+technologies
+technology
+technological
+customer
+customers
+service
+services
+applications
+application
+chain

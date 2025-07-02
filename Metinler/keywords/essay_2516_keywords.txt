@@ -1,0 +1,6 @@
+world
+bank
+equality
+equal
+promotes
+promote

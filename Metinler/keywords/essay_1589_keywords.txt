@@ -1,0 +1,9 @@
+pressure
+j
+injuries
+injury
+care
+patients
+ulcers
+ulcer
+article

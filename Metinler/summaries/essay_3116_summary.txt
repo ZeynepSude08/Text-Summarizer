@@ -1,0 +1,10 @@
+ransomware is a computer virus that modern cybercriminals use to limit users from full or partial access to their computers.
+until the victim pays a specific amount of money to the attackers within a particular time, cybercriminals can use the virus mentioned above to access the users sensitive personal or organizational information.
+although ransomware attackers mainly target individual users, they might start targeting organizations soon, considering the speed with which cybercrime is evolving and increasing recently.
+the latter ransomware limits the users complete access to their operating system by locking their apps or files.
+for instance, the victim cannot decrypt encrypted ransomware because the attacker owns and controls the access keys.
+this virus ensures the victim knows there is an encryption attack on their information and that they have to pay the required amount to access their files richardson  north, 2017.
+ransomware can give cybercriminals access to sensitive information saved in the victims computer.
+in phase 3, the virus removes any backup folders or files in the computer system to prevent the victim from restoring the target information after the execution of an attack.
+those who plan the ransomware attacks try to access ones personal information by calling or sending messages to the target users.
+in the past, personal computers were the main targets of ransomware attacks, but today operating systems of organizations and smartphones are vulnerable to this cyber threat.

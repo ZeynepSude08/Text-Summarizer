@@ -1,0 +1,1 @@
+table 3 payoff matrix table 120,000 130,000 140,000 150,000 160,000 row min row max probabilities 0 0 0 0 0 semiautomated 240,000 260,000 280,000 288,000 296,000 240,000 296,000 automated 330,000 357,500 385,000 412,500 431,000 330,000 431,000 maximum 330,000 431,000 maximin maximax using maximin, company select automated machines provides highest value, is, 330,000.

@@ -1,0 +1,4 @@
+vaccine
+vaccination
+vaccinate
+vaccinated

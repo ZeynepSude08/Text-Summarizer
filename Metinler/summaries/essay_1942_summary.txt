@@ -1,0 +1,3 @@
+wireless networks are a good way to transmit or accept data swiftly, but at the same time, all the tools connected to them are highly susceptible to hacker attacks and other threats alsharif et al., 2020.
+there exist several types of attacks on wireless networks, but the most widespread one is called maninthemiddle alsharif et al., 2020.
+to conclude, it is necessary to state that the majority of the challenges related to wireless networks concern the high probability of them being attacked by hackers.

@@ -1,0 +1,10 @@
+gantt
+project
+projects
+charts
+chart
+managers
+management
+manage
+activities
+time

@@ -1,0 +1,5 @@
+the new google search algorithm with neural network essay
+this paper will consider a new technology from google  the bert neural network, and its features and advantages, as well as the consequences of its application.
+bert is a neural network transformer model from google, on which most of the automatic language processing tools are built today.
+bert, or bidirectional encoder representations from transformers, is a neural network from google that has shown some of the best results in solving many nlp tasks from answering questions to machine translation.
+as for the impact of the new search algorithm on websites and marketers, it is possible to say the following bert does not rank pages and does not send sites to the ban.

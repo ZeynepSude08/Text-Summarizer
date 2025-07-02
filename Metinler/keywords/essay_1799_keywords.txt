@@ -1,0 +1,13 @@
+tasks
+company
+companies
+employment
+employer
+employers
+work
+working
+future
+skills
+design
+designing
+designs

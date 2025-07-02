@@ -1,0 +1,5 @@
+the conical pendulum was used to examine the mathematics and physics associated with uniform circular motion minkin, l.,  sikes, 2021.
+the conical pendulum moves at a constant spend in a circular horizontal plane and when the bob is attached to a string, it forms a cone and so it is used to illustrate uniform circular motion.
+the pendulum used in this case moves in a horizontal circle and so a bob with mass m is connected to a string with length l with its other end attached to firm support.
+after computing centripetal force and tension which are physical quantities that relate to circular motion, tension value was bigger than that of centripetal force when the bob was rotating at lower frequencies.
+the rotating horizontal plane of the bob was getting lifted in the direction of where it is suspended and the conical path of the string became circular.

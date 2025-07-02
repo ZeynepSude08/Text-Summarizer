@@ -1,0 +1,9 @@
+record
+records
+emrs
+emr
+hipaa
+medical
+information
+electronic
+electronically

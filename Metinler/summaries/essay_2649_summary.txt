@@ -1,0 +1,2 @@
+by definition, big data denotes data sets that come in tremendous volumes and reveal essential trends in the target area when analyzed mittal et al., 2018.
+however, the existing strategies for collecting big data may conflict with the concepts of privacy and personal data security mittal et al., 2018.

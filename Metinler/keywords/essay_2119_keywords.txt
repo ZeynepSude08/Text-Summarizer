@@ -1,0 +1,4 @@
+patient
+patients
+medical
+confidentiality

@@ -1,0 +1,13 @@
+customer
+customers
+healthcare
+employee
+employees
+bsc
+erm
+business
+performance
+processes
+process
+risk
+risks

@@ -1,0 +1,7 @@
+health
+care
+vaccines
+vaccination
+primary
+cases
+case

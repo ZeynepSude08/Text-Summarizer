@@ -1,0 +1,11 @@
+age factor in drug therapy for cardiovascular patient case study
+the patient from the assigned case has a history of a heart attack at the age of 54.
+as a result, the patients age might be affecting the current medication plan.
+pharmacodynamics the patient from the assigned case has hypertension, which could result from age affecting their blood vessels.
+therefore, it would be reasonable to lower the total number of medications so that an elderly patient could take only the drugs necessary for their condition.
+the dosage of certain medicines can be reduced as well in order to avoid unnecessary accumulation in the patients body and ease the drugs excretion.
+the recommended drug therapy for the patient from the assigned case consists of the following medications
+moreover, negative drugtodrug interactions can occur between the medications from the list  for instance, aspirin can potentially nullify the benefits of lisinopril drug interactions between aspir 81 and lisinopril, n.d..
+based on examples from the previous section and effects of age on drugs pharmacokinetics and pharmacodynamics, it seems appropriate to make the following changes to medication regimen
+the patient from the assigned case fits all three groups however, due to possible adverse interactions with lisinopril, aspirin should be taken in a minimal therapeutic dosage
+at the same time, it mitigates the risks of polypharmacy and excessive drug accumulation caused by pharmacokinetics and pharmacodynamics usual for elderly patients.

@@ -1,0 +1,9 @@
+medical
+p
+patient
+patients
+web
+amputation
+biological
+health
+racial

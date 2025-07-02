@@ -1,0 +1,4 @@
+gender
+social
+night
+shakespeare

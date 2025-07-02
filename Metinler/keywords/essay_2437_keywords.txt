@@ -1,0 +1,11 @@
+resources
+resource
+marketing
+expenses
+relatives
+relations
+bailey
+advertisements
+advertisement
+advertising
+food

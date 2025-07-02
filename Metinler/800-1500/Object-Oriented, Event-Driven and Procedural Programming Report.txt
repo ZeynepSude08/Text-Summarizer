@@ -1,0 +1,71 @@
+1263 words
+
+Introduction
+Software development entails the use of programming paradigms to develop codes to meet a given programming problem. Over the years, several paradigms have arisen with the main being machine code, procedural programming, object-oriented programming, and event-driven programming. Machine codes are the most basic programming paradigms and involve the representation of instructions in term of numbers. For a general programmer, utilizing machine codes is cumbersome and almost impossible when developing large software.
+
+Procedural programming involves following a predetermined path that describes the task that a program should accomplish and the procedures to complete this task. This paradigm operates by instructing the computer what to do as well as how to go about accomplishing the specific task (Nørmark, 2011).
+
+The need of large and complex software led to the development of object-oriented programming as well as event-driven programming. Object-oriented programming is a paradigm that utilizes data structures referred as objects that interact with each other to accomplish a given task. EDP on the other hand is a paradigm in which the program flow is partially dependent on user interaction.
+
+Features and Examples of OOP and EDP
+All programming languages used in OOP share several features. The first feature is that they utilize objects and classes in code development. An object is a unit of information that contains procedures referred to as methods, as well as data fields referred as attributes (Schach, 2006). Classes define the methods and properties of an object. The data fields (attributes) hold the properties of an object, while the methods of an object are the procedures that force the object to carry out a specific function.
+
+The second feature common in OOP languages is encapsulation. Encapsulation involves packing together the data that describes the object together with the instructions that outline data manipulation (methods) (Farell, 2011).
+
+The third feature inherent in OOP is inheritance. Inheritance denotes the grouping together of classes in a hierarchical manner according to their similarity in functions. Inheritance means that an existing object offers a foundation for other objects that share the same characteristics and behavior.
+
+The final feature in OOP is polymorphism. Polymorphism is where by different results are produced in program execution depending on the type of object that is sent to the function (Purdum, 2013). It denotes the setting up of a line of interaction for different types of entities (objects). Examples of OOP include Java, C++, Actor, Eiffel, Smalltalk and Python. While these program approach programming differently, they all share all the features described.
+
+
+Event-Driven Programming is a paradigm that depends on either external or internal events in order to determine the program flow. External events include the click of a mouse or the hitting of a keyboard key (Nørmark, 2011). EDP shares some features with OOP that include the use of variables, procedures, classes and objects. Apart from these features, EDP has two other distinctive features, a main loop and an event handler.
+
+One feature common in EDP is the presence of a main loop within the code. The main loop constantly runs during program execution and identifies the appropriate events after which a function activates depending on the event.
+
+The second and final feature is an event handler. An event handler is a subroutine that listens to specific events and activates a function as specified by classes and objects within the program (Schach, 2006). Examples of EDP include JavaScript, PHP, ActionScript, and Visual Basic.
+
+Advantages of OOP and EDP over pure PP
+Object-Oriented programming has several advantages over pure Procedural Programming. The first advantage is that OOP and EDP allows for faster software development. Objects and classes used in OOP allows for reusability of code as needed unlike Procedural Programming that requires rewriting for each instance of use.
+
+The second advantage is that OOP allows for easier debugging. Unlike PP that requires a fully completed code for execution, OOP allows execution of independent classes. This allows for easier identification and debugging of errors (Nørmark, 2011). OOP also results in improved productivity of software development.
+
+EDP allows for the acquisition of single instances of events such as mouse clicks or key presses to execute a program (Nørmark, 2011). The user is isolated from the internal processes required to accomplish a task and is only responsible for initiating the events needed by the program. Procedural Programming on the other hand only utilizes in-built instruction and cannot accept external instructions once executed. The user needs to specify each instruction required to execute the program.
+
+Comparison between OOP and Visual Logic
+Visual logic is an example of structured programming, an earlier version of procedural programming. It uses flowcharts to write program codes. Due to its nature, it lacks several features common in OOP. First, OOP relies on objects that contain both its attributes as well as its methods in one cohesive package. The object can then carry out a given task once a requested by the user. Visual logic however is a structured system that follow a predetermine path as detailed by the flow chart (Schach, 2006).
+
+OOP also allows for data hiding, in that access to some data only accessible to a given part of the program and is restricted to all the other parts Visual Logic on the other hand follows a straight part and does not allow for diversions in the code.
+
+Finally, OOP allow the use of an object in different parts of the program or the modification of the object for a completely different program. Visual logic requires writing a code for each essential aspect repeatedly as needed.
+
+Example of a Class and an Object in an OOP code
+The simple example below, written in Java, highlights the use of classes and objects in an OOP code and their relationship to each other.
+1 public class MyGarden
+2 {
+3 private String plantName;
+4 //method to set the plant name
+5 public void setPlantName (String name)
+6 {
+7 plantName = Roses; //store the type of plant
+8 } //end method setPlantName
+9
+10 //method to retrieve the plant name
+11 public String getPlantName()
+12 {
+13 Return plantName;
+14 }
+15 //Display message to the Gardener
+16 Public void displayMessage()
+17 {
+18 //this statement calls getPlantName to get the name of the plant that MyGarden holds
+19 System.out.printf(“Welcome to my garden forn%s! n”,
+20 getPlantName() );
+21 } //end method DisplayMessage
+22
+23 }//end class MyGarden
+
+In this example, the class MyGarden provides for several methods that lay out the task required (print out a sentence) and the mechanism to do so. The class MyGarden has an attribute in the form of the instance variable plantName. The methods in this code are setPlantName and getPlantName.
+
+The first method establishes the name of the plant (sets the attribute) while the last method retrieves the attribute in order to print it out to screen. This code can be a part of a program utilized in a flower shop the sells various plants growing in the seller’s garden. The attribute and methods applies for other uses such as in a class describing the cost for the plants or to define another attribute such as another plant e.g. lilies.
+
+Conclusion
+Due to the divergence of computer use and the need for larger and complicated programs, programming paradigms have been continuously evolving. In modern times, Object-Oriented programming and Event-Driven Programming are the most used programming paradigm. These paradigms allows the user to be isolated from the internal workings of the program and can accepting multiple and complex instructions as needed. These programs also allow for reusability of codes and as such, different programs may use the same codes similar functions. These advantages led to the decline of procedural programming in favor of OOP and EDP.

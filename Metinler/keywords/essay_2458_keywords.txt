@@ -1,0 +1,5 @@
+state
+department
+departments
+laws
+pynes

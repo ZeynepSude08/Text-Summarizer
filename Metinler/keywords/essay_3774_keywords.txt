@@ -1,0 +1,6 @@
+data
+health
+medical
+publication
+publications
+public

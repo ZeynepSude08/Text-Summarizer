@@ -1,0 +1,10 @@
+hpi  the patient complains of headaches that occur with a particular frequency and focus.
+exacerbating relieving factors patient reports taking ibuprofen to help with the pain.
+fam hx  the patients mother suffers from severe migraines, and this may be a genetic predisposition.
+general the patient says the condition is generally stable there is no nausea, fever, body pain.
+ears, nose, throat denies pain symptoms, hears well, the throat does not hurt, there is no runny nose or congestion.
+skin the patient says no skin lesions, no visible signs of disease or rash.
+neurological the man denies limb numbness, neck pain, speech impairments, and seizures.
+musculoskeletal the patient denies muscle pain throughout the body.
+considering the information obtained during the examination and filling out the patients questionnaire, it is worth starting with an assessment of the sinuses and eyes.
+sinus headache .

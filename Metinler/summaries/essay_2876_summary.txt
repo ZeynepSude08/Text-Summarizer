@@ -1,0 +1,7 @@
+pharmacokinetics is defined in the following way  it is the study of the time course of drug absorption, distribution, metabolism, and excretion spruill et al., 2014, p.1.
+therefore, clinical pharmacokinetics is the application of its principles to the management of drugs in an individual patient.
+pharmacodynamics refers to the relationship between drug concentration at the site of action and the resulting effect, including the time course and intensity of therapeutic and adverse effects spruill et al., 2014, p.2.
+my experience regarding pharmacokinetic and pharmacodynamic factors and their influence on patients anticipated responses is connected to palliative care.
+as a result of physiological shifts that happen in the organism of people receiving palliative care, the pharmacokinetics of applied drugs can be altered franken et al., 2016.
+nevertheless, various practices employed in palliative care take into account some of the known factors that may influence a patients response to certain drugs.
+the main areas of influence include absorption, distribution, and metabolism of drugs in patients organisms.

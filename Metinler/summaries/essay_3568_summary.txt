@@ -1,0 +1,5 @@
+the work breakdown structure wbs shows specific tasks that need to be completed prior to the implementation of a project sipes, 2019.
+the joint application of the wbs and the gantt chart helps structure a project making it more organized and easier to implement.
+the wbs starts with the project scope statement and then divides and organizes it into several tasks sipes, 2019.
+the chart defines the time required to complete each task and helps to establish the duration of a project sipes, 2019.
+the gannt chart and the wbs are meant to structure a project and define the most important or missing aspects.

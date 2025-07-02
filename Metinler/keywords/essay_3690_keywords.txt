@@ -1,0 +1,6 @@
+moore
+equal
+differences
+different
+changes
+change

@@ -1,0 +1,4 @@
+there are several types of ids, the main ones being hids and nids.
+hids protects files even if the administrator is disconnected from the lan because hids is installed on the device directly.
+in the case of using hids and nids, the first one will provide protection in a complex, and the second one will solve local issues magalhaes, 2018.
+full data protection requires comprehensive analysis that hids and nids can provide, but this requires special care on the part of administrators.

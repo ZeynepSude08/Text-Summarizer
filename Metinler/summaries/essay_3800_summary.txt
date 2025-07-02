@@ -1,0 +1,13 @@
+as zip codes differ on factors such as socioeconomic or ecological, people have various health issues, and the level of development of certain areas can affect peoples access to the means to improve their health.
+third, the results of data collected on the zip code level can be used to indicate zip code trends and determine areas that need changes bi et al., 2020.
+overall, these days the social impact of zip codes on human health needs to be examined to determine areas that need to be developed better to provide people with better health care services.
+the researchers used the american community survey and the new mexico department of health to create a zip code level dataset, with the number of covid19 cases as the dependent variable huyser et al., 2021.
+as mentioned above, there is a need to analyze the impact of zip codes on human health in more areas focusing on the residents ability to access health care with varying levels of education.
+being one of the areas with high rates of covid19 cases, zip codes in florida may be useful to determine the availability of health care services and the necessity for further infrastructural development of areas.
+following that, assessing the social impact of zip codes on human health will be focused on the level of education and accessibility of health services but requires justification from literature to proposed hypotheses.
+the indicator will be measured by the number of confirmed cases in zip codes with data gathered from sources such as usa facts, which provides weekly information on the virus, or from the florida department of health if the state is finally chosen for the research usa facts 2021.
+the geographic availability of mental health facilities in zip codes will be measured using data from behavioral health treatment services locator, which provides information on mental health clinics across the us cummings et al., 2017.
+this information is expected to show the levels of education of residents of zip codes to determine whether there are more educated people in areas with better access to health care services.
+the measurements are expected to determine the development of zip codes and examine whether they have more or less access to health care services for the residents.
+to summarize, the proposed research aims to determine whether the development of zip codes impacts the residents access to health services.
+the research is expected to assess the connection between zip codes and human health and identify areas that need more development to decrease inequality in receiving means to improve ones health.

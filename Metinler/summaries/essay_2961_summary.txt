@@ -1,0 +1,5 @@
+4. application of nmr in mof analysis
+with the advancement of solidstate physics concepts and studies, nmr spectroscopy is expected to find more applications in analytical and organic chemistries.
+mofs are increasingly being studied using solidstate nmr spectroscopy to discover nmractive nuclei in their framework.
+the most common applications of nmr spectroscopy are in medicine, analytical chemistry, and the food sector.
+mofs analysis through nmr spectroscopy enables scientists to understand a substances structure without inferring with the sample.

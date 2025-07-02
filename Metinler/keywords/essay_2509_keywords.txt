@@ -1,0 +1,10 @@
+force
+forces
+extension
+extensions
+masses
+mass
+lengths
+length
+spring constant
+constants

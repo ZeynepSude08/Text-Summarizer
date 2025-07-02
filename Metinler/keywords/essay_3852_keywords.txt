@@ -1,0 +1,6 @@
+nys
+patients
+patient
+language
+medical
+disorders

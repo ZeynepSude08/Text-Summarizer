@@ -1,0 +1,5 @@
+entries
+entry
+accounting
+accountant
+accounts

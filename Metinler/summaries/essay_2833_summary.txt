@@ -1,0 +1,13 @@
+the cooling curves of the pure compounds and various mixtures were used to construct a solidliquid phase diagram of the biphenyl and naphthalene systems.
+repeat the above step for 0.4g and another 0.4g of naphthalene to the biphenyl sample to obtain the cooling curve for each.
+first, the cooling curves for all the nine mixtures were determined, and the results can be found in figures 1 and 2 for 2 grams of naphthalene  0.20.410.421 grams of biphenyl and 2 grams of biphenyl  0.20.410.42 grams of naphthalene accordingly.
+next, to determine the mole fraction for both biphenyl and naphthalene solutions, it is necessary first to calculate the number of moles of each component in different samples using equation 3.
+starting pure material   of the sample  i   naphthalene g  biphenyl g  naphthalene  biphenyl moles  mole fraction of naphthalene  x n   mole fraction of biphenyl  x b 
+based on the received mole fraction rate and temperature values, it is possible to construct a phase diagram and identify the measured eutectic point in which solid and liquid phases are in thermodynamic equilibrium.
+the next step was plotting the mole fraction of naphthalene and biphenyl against the depressed freezing point.
+for instance, the melting point of pure naphthalene was 352.2 k, but when the 0.6 grams of biphenyl were added, the final solidification temperature was equal to 344.2 k.
+according to previous research conducted by the national institute of standard and technology 2021a, 2021b, the melting points of pure biphenyl and naphthalene are 342.15 k and 353.15 k.
+2010 determined that the eutectic temperature is 314.15 k while the composition of naphthalene to biphenyl is 40 against 60, respectively.
+in summary, the current research presented the cooling curves of two pure chemical components, namely biphenyl and naphthalene, and their mixtures.
+moreover, it intended to identify the melting points of each studied sample and based on this information, determine the eutectic composition and temperature.
+it was found that the melting points for pure naphthalene and biphenyl are equal to 352.2 k and 340.2 k, respectively, which is almost in line with the generally accepted values.

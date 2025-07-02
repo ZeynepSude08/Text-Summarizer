@@ -1,0 +1,9 @@
+human
+external
+creature
+character
+characters
+friends
+friend
+fan
+mittman

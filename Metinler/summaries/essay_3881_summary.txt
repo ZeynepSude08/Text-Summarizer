@@ -1,0 +1,2 @@
+however, the storage issue is that a slow processor, while requiring significantly more time to retrieve and operate the data to access certain files, is more likely to fill the storage with redundant information.
+thus, while speed stands for the processors ability to quickly and efficiently access local or webbased files, the notion of storage stands for the amount of data that could be simultaneously stored on the computers hard drive.

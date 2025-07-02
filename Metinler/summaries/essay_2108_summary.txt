@@ -1,0 +1,8 @@
+bibas model introduces a strong hierarchy of data subjects and objects, limiting the possibility of an interaction between different levels of integrity.
+in the clarkwilson model, users do not access the object directly, as an intermediary serves to ensure the integrity of the data jeannot, 2019.
+the clinical information systems security model ciss aims to bridge the gap in data security policies.
+a security policy model for clinical information systems .
+a new distributed chinese wall security policy model.
+clarkwilson security integrity model .
+a cloud computing security model based on noninterference.
+security models and information flow .

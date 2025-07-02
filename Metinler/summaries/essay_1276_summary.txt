@@ -1,0 +1,9 @@
+3. calculating the number of balloons
+specifically, it is about lifting a building, whether a private home or a skyscraper with commercial offices, high into the air using heliumfilled balloons.
+the present work assumes that even a large building can be lifted into the air using a large number of balloons.
+the key focus of the mathematical essay is to determine the minimum number of balloons that can lift the building into the air and consider the associated features of this event.
+calculating the number of balloons
+in this context, lifting an entire building must be realized through a potentially massive number of balloons.
+since it is now clear that one balloon can lift a mass of 12.4 g, it is not difficult to determine the theoretical number of balloons that would be required to lift the entire skyscraper.
+to put it another way, the simulations showed that it would take about 40 billion such mediumsized balloons to lift the burj khalifa skyscraper using balloons.
+the number of balloons needed to lift a skyscraper depending on its size

@@ -1,0 +1,15 @@
+patients
+patient
+nurses
+nursing
+visits
+visit
+k
+l
+appointments
+appointment
+health
+clinic
+clinical
+clinics
+hospital

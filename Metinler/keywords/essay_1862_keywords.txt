@@ -1,0 +1,7 @@
+map
+maps
+page
+pages
+time
+times
+links

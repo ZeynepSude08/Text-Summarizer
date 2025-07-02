@@ -1,0 +1,11 @@
+customer
+customers
+loyalty
+programs
+program
+brand
+brands
+clients
+client
+ladder
+gerami

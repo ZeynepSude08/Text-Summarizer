@@ -1,0 +1,11 @@
+boston
+population
+web
+community
+communities
+medical
+resources
+resource
+healthcare
+facilities
+local

@@ -1,0 +1,4 @@
+time
+money
+loses
+long

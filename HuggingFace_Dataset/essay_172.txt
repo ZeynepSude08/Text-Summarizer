@@ -1,0 +1,56 @@
+Childhood Ear Infection and Determinants of Health Essay
+
+Table of Contents
+ 1. A childhood ear infection
+ 2. Determinants of Health
+ 3. Epidemiological Triad
+ 4. Role of the Nurse Practitioner
+ 5. References
+
+A childhood ear infection
+
+A childhood ear infection is caused by celiac disease, a chronic small intestine enteropathy resulting from exposure to the protein gluten, primarily a component of rye, barley, and wheat. As a result, ear infections are caused by both environmental and genetic factors since they cause celiac disease. A childhood ear infection is mainly caused by early-life antibiotics, age at gluten introduction, and breastfeeding duration (Bittker & Bell, 2019). In addition, ear infections begin when the child has a cold, sore throat, and diverse upper respiratory infections resulting from bacterial or viral infections that spread to the middle ear.
+
+An ear infection is scientifically known as otitis media and is more prevalent among children than adults. Out of six children, five have the potential of demonstrating at least one ear infection by the age of three years (NIH, n.d.). Symptoms of childhood ear infections include pain in the ear from the swollen middle ear, sleeping troubles, fever, fluid drains from the ear, balance problems, and hearing troubles.
+
+Ear infections are not contagious; however, they are caused by bacteria or viruses that develop in the middle ear, which can be transmitted from person to person. Additionally, they might present complications such as hearing and speech loss, discharge from the ear, lack of body balance, and developmental delay (Hirsch et al., 2021). In addition, these viruses and bacteria might lead to the common cold or flu. Antibiotics, including ear drops, can treat childhood ear infections. However, surgical operations may be required to drain excess fluid from the middle ear in chronic or severe cases.
+
+Determinants of Health
+
+Determinants of health refer to social, personal, environmental, and economic factors that influence health status. Healthy People 2020 presents the social determinants as education, health and health care, social and community context, built environment, and neighborhood and economic stability. Under the financial stability segment, childhood ear infection risk factors include employment, poverty, housing instability, and food security. The risk is primarily due to the living conditions characterized by poor hygiene, thus enabling bacterial and viral transmission leading to infections. Moreover, education for parents is vital, particularly early childhood education and development, which equips the parents with disease detection, prevention, and control. For example, the mother can recognize the importance of breastfeeding the child through education, thus avoiding ear infections (Bittker & Bell, 2019). Similarly, other risk factors such as smoking would be made known to the mother and enable her safely prevent ear infections in the child.
+
+Health and health care act as predominant determinants because they entail health literacy and access to primary care and health care which are vital in preventing the spread of the infection in a child. Access to health facilities promotes health literacy, enabling one to be aware of the risk factors of ear infections and prevention methods in case of an infection. The built environment or the neighborhood entails environmental conditions and housing quality, which are risk factors for ear infections. Environmental conditions characterized by smoking and poor hygiene would lead to the spread of the infection through bacterial and viral elements.
+
+Epidemiological Triad
+
+The epidemiological triad facilitates understanding of the agent (what), host (who), and environment (where) of the infectious disease. The agent factor in childhood ear infections refers to what causes the infection. These include bacteria and viruses. Childhood ear infections through viral infections often occur when the upper respiratory tract is infected by the respiratory syncytial virus (Wilson M. & Wilson P., 2021). The condition provides a conducive environment for the growth of pathogenic bacteria such as Moraxella, Streptococcus pneumoniae, and Haemophilus influenza. Children below the age of three years are prone to viral and bacterial infections due to a lack of breastfeeding and gluten use (Bittker & Bell, 2019). However, older adults and adolescents are more susceptible to smoking and chronic diseases.
+
+Ear infections affect humans of any given age; however, it is more prominent in children because humans are the ideal host for ear infections with differentiated causes. Ear infection among adults and older age is mainly attributed to chronic diseases, otosclerosis, smoking, sudden sensorineural hearing loss, and sensorineural degeneration relating to age (WHO, 2021). However, in childhood and adolescents, the risk factors are meningitis and diverse infections, accumulation of fluid in the ear, and chronic ear infections.
+
+The environmental factors provide the conducive surrounding for the development of the condition. The elements are external forces to the host that permit the disease to be transmitted. The environmental factors for ear infections include poor hygiene and housing conditions that facilitate viral and bacterial transmission. Children under the age of five years are more susceptible to ear infections under environmental factors due to the inability to prevent exposure and the lack of immunity against such factors as poor hygiene (Bittker & Bell, 2019). Hygiene factors influence the spread of bacterial infections resulting in massive infections among children compared to adults and adolescents who have developed immunity against bacterial infections.
+
+Role of the Nurse Practitioner
+
+The National Council of State Boards of Nursing (NCSBN) provides information on epidemiological diseases to curb misinformation spread by nurses in any case. The process often involves a policy brief where nurses are required to be identified by their profession and thus professionally accountable for the information they issue to the public (NCSBN, 2021). Through the Iowa Model of Evidence-Based Practice to Promote Quality of Care, nurses and various healthcare providers are further guided to utilize research findings to improve patient outcomes, thus helping curb the influence of misinformation in practice (Curley, 2019). According to the NCSBN, the nursing practitioner’s role concerning data dissemination of infectious diseases is guided by the American Nurses Association Code of Ethics for Nurses, where the nurse is held professionally accountable for misinformation.
+
+Moreover, the American Association of Nursing Practitioners (AANP) consults with the Center for Disease Control to implement successful interventions against infections (AANP, n.d.). Primary intervention mainly targets disease prevention, and the nurses are advised to professionally provide educative counseling to the most vulnerable targets through health promotional activities. The aim is to provide the population with the various resources and tools designed to keep them informed on the health issue and educate the patient through health promotion as entailed in the Chronic Care Model (Curley, 2019). In secondary infection intervention, nursing practitioners are expected to provide the patient with the utmost treatment through patient engagement.
+
+Furthermore, nursing practitioners are obligated by the NCSBN to adhere to the provided code of ethics in patient treatment and service provisions to improve patient outcomes. Moral reasoning is highly applicable to the nursing practitioner concerning tertiary intervention because of the tough lifelong decisions to be made. The Johns Hopkins Nursing Evidence-Based Practice Model (JHNEBPM) proves vital to nursing practitioners in encouraging them to engage in critical thinking and a framework that guides them in seeking and finding the appropriate evidence to promote patient outcomes (Curley, 2019). Therefore, the nurse is expected to adhere to the code of ethics in undertaking the tertiary intervention to limit adverse effects, prevent disease-related complications, and restore high physical and psychological functioning possible.
+
+References
+
+American Association of Nursing Practitioners. (n.d.). Clinical resources by therapeutic area . Web.
+
+Bittker, S. S., & Bell, K. R. (2019). Potential risk factors for celiac disease in childhood: A case-control epidemiological survey. Clinical and Experimental Gastroenterology , 12 , 303-319. Web.
+
+Curley, A. L. (2019). Population-based nursing: Concepts and competencies for advanced practice (3 rd ed.). Springer Publishing Company.
+
+Hirsch, S. D., Elling, C. L., Bootpetch, T. C., Scholes, M. A., Hafrén, L., Streubel, S. O.,… & Santos-Cortez, R. L. P. (2021). The role of CDHR3 in susceptibility to otitis media. Journal of Molecular Medicine , 99 (11), 1571-1583. Web.
+
+National Institute of Health. (n.d.). Ear infections in children . Web.
+
+National Council of States Board of Nurses. (2021). Leading nursing organizations issue policy brief regarding nurses spreading misinformation about COVID-19 . Web.
+
+Wilson, M., & Wilson, P. J. (2021). Middle Ear Infections. In Close Encounters of the Microbial Kind (pp. 233-242). Springer, Cham. Web.
+
+World Health Organization. (2021). Deafness and hearing loss . Web.

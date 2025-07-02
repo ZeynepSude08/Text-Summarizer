@@ -1,0 +1,5 @@
+----- ÖZET -----
+Android Studio is developed for Android to accelerate one’s application development. This helps one to build the highest-quality applications for each Android gadget. Android Studio offers a range of testing tools and frameworks to help one in testing the app. The Android Studio project building is separated into two files, Java and XML.
+
+----- ANAHTAR KELİMELER -----
+applications android studio, android studio, android app development, android app developers, android studio android

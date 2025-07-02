@@ -1,0 +1,5 @@
+companies
+company
+day
+days
+financial

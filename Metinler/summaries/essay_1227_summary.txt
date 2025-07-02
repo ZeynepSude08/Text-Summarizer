@@ -1,0 +1,2 @@
+does mercator projection adequately represent the real size of the country essay
+mercator is a commonly used projection, but it does not adequately represent the real size of the country.

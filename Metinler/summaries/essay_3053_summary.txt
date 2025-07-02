@@ -1,0 +1,5 @@
+the experiment will monitor the reduction of crvi by glutathione, record the results, and investigate the reactions doubleexponential dependency.
+the reactions rate equation and rate constants will be determined using exponential stripping and computerassisted nonlinear regression analysis.
+on the other hand, during the second trial the obtained results were k 1  0.00275 ????
+the experiment investigated the time dependency of glutathione reduction of crvi in an aqueous solution.
+experiment 6 kinetics of a reversible, firstorder, consecutive reaction reduction of crvi by glutathione

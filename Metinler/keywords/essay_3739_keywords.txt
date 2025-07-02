@@ -1,0 +1,6 @@
+language
+english
+study
+studied
+dream
+dreams

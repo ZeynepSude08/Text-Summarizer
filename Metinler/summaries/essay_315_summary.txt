@@ -1,0 +1,11 @@
+farcargo is a businesstobusiness onlinebased logistics service company.
+the company conducts national wide and international goods delivery for its clients.
+most of the companys services, such as booking, billing, payment, and monitoring, are conducted online.
+ecommerce businesses use this platform to advertise its services and inform clients of their offers and discounts chung et al., 2018.
+for each mode of transport, courier service companies use a variety of equipment in terms of size and shape to suit the kind of goods being transported gramatikova, 2020.
+farcargo deals with different types of companies who wish to transport their products or any goods.
+for example, manufacturing companies require it to transport raw materials from the provider to their firms and later hire courier services to transport their output to wholesalers or other clients gramatikova, 2020.
+the companys information system infrastructure comprises four parts the user interface, applications, business processes, and a database.
+the about us button leads a user to more information about the company, such as the companys history, management, projects, and plans.
+through the application, clients can access their past business records which are stored in the companys database.
+once a client books for our services, the system assists the company in scheduling according to the different days and tasks keyed in.

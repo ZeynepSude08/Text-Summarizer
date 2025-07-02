@@ -1,0 +1,11 @@
+patient
+patients
+care
+hospitalization
+hospitals
+measure hospital
+measures
+measurement
+measuring
+medical
+healthcare

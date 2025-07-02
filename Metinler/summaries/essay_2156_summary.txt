@@ -1,0 +1,3 @@
+there are also no complications arising from the addition, deletion, and updating of data in the database.
+normalization ensures a more flexible database and data consistency.
+one should not disregard data normalization if one uses a database, which is the case with practically all businesses these days.

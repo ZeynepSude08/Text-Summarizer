@@ -1,0 +1,25 @@
+Cloud Computing for Massive Amounts of Data Report
+
+Table of Contents
+ 1. Cloud Computing Essentials
+ 2. Cloud Computing Advantages
+ 3. Cloud Computing Examples
+ 4. References
+
+Cloud Computing Essentials
+
+Cloud computing is a significant approach that is commonly used to deal with huge amounts of data, including unstructured data. This approach’s services are programs that are accessed over the Internet using a regular Internet browser or other network applications. These can be entertaining, office, and specialized business applications (Mansa, 2020). The main difference from the usual method of working with software is that the users do not use the resources of their PC, but computer resources and capacity provided to them as an Internet service. In this case, the user has full access to their own data and the ability to work with them but cannot control the same operating system, software, and computing power, with which this work occurs.
+
+Cloud Computing Advantages
+
+This approach has a number of advantages; first, the user can use a PC of almost any configuration to perform resource-intensive tasks. Second, the user is not tied to the workplace and can use any PC that has an Internet connection. Third, the user is insured against malfunctions in a car breakdown and can easily share the results with others or work together.
+
+Cloud Computing Examples
+
+Cloud computing has whole subcategories that differ in the type of services provided. For example, software as a service (SaaS) is a model of selling and using software in which a provider develops a web application and manages it independently, giving customers access to the software over the Internet. Thus, all expenses for maintenance of the working capacity of the program are covered by the supplier; the user (in case service is paid) pays only the fact of the use of “cloud” software – or upon use, or a subscription fee (Felter, 2021). Then, there is Infrastructure as a Service (IaaS) – used exclusively by enterprises, as ordinary users do not need it. It provides the customer with a variety of computer infrastructure (servers, storage systems, network equipment, and software to manage these resources). Third, it is Desktop as a Service (DaaS); when providing a DaaS service, customers receive a fully ready-to-work standardized virtual workstation, which each user can further customize for their tasks (Felter, 2021). Hence, the user gets access not to a separate program but to the software package necessary for full operation.
+
+References
+
+Felter, B. (2021). The different types of cloud computing and how they differ . Exchange. Web.
+
+Mansa, J. (2020). Cloud computing . Investopedia. Web.

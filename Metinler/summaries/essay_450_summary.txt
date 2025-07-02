@@ -1,0 +1,5 @@
+40 of homes have at least five devices with internet access, and the same 40 have at least one device with several vulnerabilities allifah  zualkernan, 2022.
+this method is widely used in various cyber security systems, information security, decision validation, web applications, cloud storage, networks, and mobile applications allifah  zualkernan, 2022.
+cloud security is related to the threats of information transactions between the device and the cloud.
+as a result, appropriate subcriteria were selected for each criterion, and a computational experiment was presented for a pairwise comparison of device security performance allifah  zualkernan, 2022.
+the models flexibility is explained by a preliminary study conducted on the sources of vulnerabilities in most devices in the smart home allifah  zualkernan, 2022.

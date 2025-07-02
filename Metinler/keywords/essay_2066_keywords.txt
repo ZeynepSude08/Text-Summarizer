@@ -1,0 +1,12 @@
+customers
+customer
+rates
+rate
+discounts
+discount
+discounted
+value
+black
+purchase
+purchasing
+purchases

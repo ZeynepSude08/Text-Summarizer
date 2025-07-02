@@ -1,0 +1,2 @@
+a server is a computer that is used to share resources and manage processes across a network, and it frequently connects to the internet to assist remote users.
+depending on the workloads, a server may be able to manage huge files or massive volumes of data.

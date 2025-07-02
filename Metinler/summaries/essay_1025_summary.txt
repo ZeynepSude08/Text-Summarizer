@@ -1,0 +1,7 @@
+this rate essentially refers to the speed of enzyme catalyzation, which then leads to a reaction resulting in a substrate turning into a product.
+some of the factors that influence the rate of enzyme activity include enzyme concentration, substrate concentration, proton concentration ph, as well as temperature.
+if all the other factors that affect the rate of enzyme activity remain the same, increasing initial concentration is going to result in a proportional rise of the enzymecatalyzed reactions initial velocity.
+in such a reaction, an enzyme possesses an active site for a substrate to bind to, which occurs in one of two ways.
+noncompetitive inhibition, on the other hand, does not imply active competition between a substrate and an inhibitor since the latter binds to other regions of an enzyme, rather than an active site.
+in other cases, the reaction of the substrate and the enzyme is disrupted due to the inhibitor altering the structure or shape of the enzyme molecule, making the active site useless.
+enzyme .

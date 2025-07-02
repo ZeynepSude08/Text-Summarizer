@@ -1,0 +1,28 @@
+533 U.S. 27 (2001) Kyllo v. United States: The Use of a Thermal Imaging Device Report
+
+Table of Contents
+ 1. Facts
+ 2. Issue
+ 3. Holding
+ 4. Reasoning
+ 5. Reference
+
+Facts
+
+The parties to the selected lawsuit are Agent Elliott and the petitioner Danny Kyllo, and the court initiated in Florence, Oregon. The United States Department of the Interior’s agent used the thermal imaging device to prove their suspicions that Kyllo grows marijuana indoors (Kyllo v. United States, 2001). Plants require consistent heating, and the fact that one wall was significantly warmer than others, according to the scanner, determined the course of further investigation. The agent received a warrant authorizing a search of Kyllo’s house, and the plantation was found there. The defendant pleaded guilty in violation of 21 U. S. C. § 841(a)(1); however, the dispute occurred as the appeal stated that using the thermal imaging scan on an individual’s house violates the Fourth Amendment (Kyllo v. United States, 2001). The Court of Appeals for the Ninth Circuit was required to revise the warrant’s validity based on the imaging made by Elliott. On remand, the court concluded that using a scanning device was appropriate because it did not expose any private life or human activities inside the house (Kyllo v. United States, 2001). Furthermore, the defendant had no intention to hide the use of heating; thus, their privacy was not violated.
+
+Issue
+
+Was the use of a thermal imaging device considered a search under the Fourth Amendment to the United States Constitution?
+
+Holding
+
+Yes.
+
+Reasoning
+
+The final outcome was on the side of the Supreme Court, which reversed the appellation, and further proceedings concluded that scanning the house and retrieving the information about its internal parts was a search. The technology of the thermal imaging device is not used publicly and considered unreasonable; therefore, the agent was not allowed to perform it without a warrant (Kyllo v. United States, 2001). The court of the first instance was incorrect regarding the evidence approval, and the case’s reasoning forced the regulators to revise the use of technology during investigations in terms of individuals’ privacy protection. The Supreme Court had passed no significant law enforcement related to the use of technology and surveillance.
+
+Reference
+
+Kyllo v. United States, 533 U.S. 27, 121 S. Ct. 2038. (2001). Web.

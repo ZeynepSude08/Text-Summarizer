@@ -1,0 +1,1 @@
+while this database can be a handy tool for storing all student information, this should not be done for security reasons.

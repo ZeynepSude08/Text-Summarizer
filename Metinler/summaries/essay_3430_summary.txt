@@ -1,0 +1,2 @@
+fillet is a tool in autocad used to create circular edges between adjacent lines and faces in 2d or 3d.
+traditional methods of designing have been replaced by the autocad, which has many advantages, such as saving time and increasing productivity, and reducing the hectic work of drafting that is easily and very fast done within a short period juraev 2.

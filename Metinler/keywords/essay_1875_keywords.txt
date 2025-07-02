@@ -1,0 +1,9 @@
+controls
+control
+fargo
+tayan
+management
+managers
+tactics
+tactical
+new

@@ -1,0 +1,5 @@
+----- ÖZET -----
+Data buses are the communication channels between different internal components and peripheral devices. Data buses are represented as a multiple of two and currently include five types: 4, 8, 16, 32, and 64. The number of parallel lines in a processor defines how many electrical signals can be exchanged between peripherals and the CPU. The most common operating systems on modern computers are 32 and 64-bit microprocessors.
+
+----- ANAHTAR KELİMELER -----
+data buses represented, types data buses, data buses, processing data buses, data buses definition

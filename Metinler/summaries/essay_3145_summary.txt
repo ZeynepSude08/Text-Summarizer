@@ -1,0 +1,1 @@
+the five major reasons why an organization would choose to implement directaccess on their network server include no user input, alwayson nature, increased security, reduced support costs, and deployability in existing infrastructure.

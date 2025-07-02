@@ -1,0 +1,6 @@
+the device is mediumsized and consists of two parts the thermostat with a glass display, a quadcore processor, and smartsensor that picks up environmental signals.
+smartsensor consists of air sensors temperature, humidity, proximity, and occupancy and a controlled voice assistant it is automatically controlled by the thermostat and has builtin microphones, speakers, and speech recognition.
+the thermostat is the central part of a rather largesized device that controls an intelligent system with sensors.
+an optional part of the ecobee smart thermostat is a small part with temperature and motion sensors.
+ecobee smart thermostat is an intelligent device that allows you to regulate the temperature and humidity in the room and monitor the energy consumption of home maintenance.
+the device consists of a thermostat with an lcd display and a network location in the housing and a smartsensor with sensors and a voice recognition system.

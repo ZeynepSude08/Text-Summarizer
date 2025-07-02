@@ -1,0 +1,4 @@
+in addition to probability, excel allows people to calculate measures of the central tendency.
+thus, excel allows people to achieve quick results in work by processing large databases and calculating the necessary information using formulas.
+formulas allow managers to easily and quickly calculate probabilities, which helps people predict the future in the short term.
+excel allows people to calculate complex central tendency measures, which helps to organize large layers of information.

@@ -1,0 +1,7 @@
+othello
+human
+shakespeare
+iago
+honest
+tragedy
+tragedies

@@ -1,0 +1,17 @@
+history of co2 laser
+co2 laser physics
+c02 laser uses a mixture of carbon dioxide, nitrogen and helium gasses as its medium.
+the beam transmission system consists of a laser power supply, laser oscillator, reflecting mirrors, cutting torch, gas cylinders, water chiller, and air pump.
+in the laser tube, the fusion of gasses is actuated by diodes that emit energy in the form of light.
+the photons have the same wavelength as the excited atom thus, all photons in the laser beam have the same wavelength.
+properties of the co2 lasers
+designs of co2 laser
+sealedoff laser
+waveguide laser
+figure 5.0 waveguide laser.
+this laser has the advantage of combining a c02 specific wavelength of 10.6 m, which has high energy due to short impulses 6.
+figure 6.0 tea laser.
+application of co2 laser
+lasers in otology
+5.  co2 lasers , rpphotonics.
+6.  how do co2 lasers work?

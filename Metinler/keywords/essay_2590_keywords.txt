@@ -1,0 +1,10 @@
+letter
+letters
+sentence
+sentences
+martin
+formal
+language
+text
+write
+writing

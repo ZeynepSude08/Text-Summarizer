@@ -1,0 +1,12 @@
+patients
+patient
+nursing
+nurse
+nurses
+medical
+medication
+ethical
+ethics
+reporting
+reported
+principles

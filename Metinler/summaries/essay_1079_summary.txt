@@ -1,0 +1,16 @@
+one of the ways of its application is the determination of the standard heat of organic compounds, such as glucose or sucrose formation bomb calorimetry heat of formation of naphthalene or sucrose, n.d..
+where  f h is the heat of the formation of naphthalene.
+where c is the heat capacity of the calorimeter, q uot e is the total amount of heat liberated in the calorimeter, and t is the temperature change.
+where c is the average heat capacity of the calorimeter, r is the ideal gas constant, t is the temperature change, q v is the heat released at constant volume, pv is the difference of the pv value for the products relative to the reactants, and n is the number of moles in the naphthalene samples.
+where gm is the mass of the food sample, w is the mass of water in the calorimeter, it is 775g, w is equal to the water equivalent of the calorimeter set, which is equal to its heat capacity is 10422.11 j o c, t2t1 is the temperature change, and x is the mass of food sample.
+weight measurements used for benzoic acid and the heat capacity values from the two benzoic acid samples.
+the heat of combustion values for naphthalene.
+for each of the two benzoic acid samples, the total amount of heat energy released was obtained using the following calculations
+to calculate the heat capacity of the bomb calorimeter using the data collected for the two benzoic acid reactions, we can use equation  6 as shown in the sample calculations
+then the mean of the twoheat capacity of the bomb calorimeter for the benzoic acid reaction was calculated as follows
+using equation 8, we can convert the naphthalenes average heat of combustion to standard conditions, which was added to h 3 , which is the gas ideality, the sample calculations are as follow
+however, the average heat of combustion for naphthalene was 4162 kjmol.
+subsequently, this value was used to estimate the heat of combustion of the substance naphthalene and marshmallow samples in this work.
+the total value of the heat of combustion for naphthalene was found to be 4162
+benzoic acid was used as a standard to study the calorimetric constant and combustion heats of naphthalene and marshmallow.
+bomb calorimetry heat of formation of naphthalene or sucrose .

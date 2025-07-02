@@ -1,0 +1,9 @@
+the project addresses this claim hypothesis by first carrying out a statistical test of means of both the local housing sales market and the national market price.
+this will be archived through a test statistics ttest on the two means the local housing sales market price and the national market price.
+population parameters in the project based on the samples are the housing listing price and square footage of homes under the analysis.
+in this project, the null hypothesis is that the local housing sales markets mean price is higher than that of the national housing market sales price.
+1. mean housing listing price, mean cost per square footage, and mean square footage are greater than that of the national market.
+1. mean housing listing price, mean cost per square footage, and mean square footage are equal to or lower than that of the national market.
+the following table gives test statistics on the house price listing, and the cost per square footage means
+1. mean housing listing price, mean cost per square footage, and mean square footage are greater than that of the national market.
+in conclusion, based on the research data analysis, both the house listing price and the square footage in the region and national market do not bear any statistical difference.

@@ -1,0 +1,11 @@
+diabetes
+diabetic
+insulin
+patients
+patient
+lee
+blood
+types
+type
+hormones
+hormone

@@ -1,0 +1,11 @@
+codons
+codon
+bases
+base
+code
+codes
+chain
+chains
+dna
+c
+stability

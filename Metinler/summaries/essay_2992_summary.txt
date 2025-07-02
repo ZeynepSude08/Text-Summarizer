@@ -1,0 +1,3 @@
+the given literature review will primarily focus on the topic of web application performance tool or wapt, which is utilized to test webbased interfaces and related applications.
+according to the current literature, load testing is usually done to evaluate the behavior of an application under a given expected load jailia et al., 2018.
+comparative study of ntier and cloudbased web application using automated load testing tool.

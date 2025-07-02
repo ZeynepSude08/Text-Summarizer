@@ -1,0 +1,11 @@
+food
+foods
+resource
+resources
+foley
+agricultural
+agriculture
+environment
+terraculture
+environmental
+environmentally

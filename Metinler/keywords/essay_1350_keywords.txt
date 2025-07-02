@@ -1,0 +1,12 @@
+resources
+resource
+human
+humans
+people
+places
+place
+natural
+geographic
+geographically
+geographical
+different

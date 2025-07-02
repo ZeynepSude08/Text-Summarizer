@@ -1,0 +1,17 @@
+in this paper, the various lighting strategies will be discussed, in particular focusing on the differences between artificial and natural lighting, their potential benefits, and their application in the work environment.
+some of the works have noted the potential and important benefits of natural lighting, both for work performance and satisfaction sun et al., 2018.
+current technologies in electric lighting could use significant overhauls, to improve energy intensity and provide employees with an effective source of light.
+the use of sensory activation and ambient lighting was noted in particular, as the potential way to optimize lighting costs in a work environment.
+to best enact change and integrate newage lighting systems into practice, the use of new technologies, approaches and the iot has also been brought into consideration kumar et al., 2021.
+it is noted that the inclusion and use of smart technology allow for an unprecedented level of user customization and control, as well as enables interconnectivity between different sources of light higuera et al., 2018, shankar et al., 2020.
+a significant reduction in energy consumption was documented thanks to the use of the combination of artificial and real light han et al., 2019.
+the building combines various sources of natural light to provide a more productive workplace environment coupled with reduced electricity costs.
+work efficiency is also largely dependent on light, both artificial and natural its quality and accessibility katabaro  yan, 2019, jamrozik et al., 2019.
+in regards to light, the effect of its controllability, methods of distribution, quality, and other characteristics need to be reviewed for any potential harms done to individuals leccese et al., 2012.
+the framework incorporates integrated lighting that enhances human performance and contributes to lesser energy costs higuera et al., 2018.
+environmentally, this approach is also more efficient, as it conserves energy resources and promotes more full use of natural light dubois  blomsterberg, 2011.
+the combination of both natural and artificial light has been continuously shown to be effective in promoting more costeffective resolutions han et al., 2019, alashwal  budaiwi, 2011.
+with proper considerations, it can be utilized in the workplace environment to facilitate better work conditions, as well as offer an option for continued lighting solutions sun et al., 2018.
+energy savings due to daylight and artificial lighting integration in office buildings in hot climate.
+effects of lighting quality on working efficiency of workers in office building in tanzania.
+work performance in relation to lighting environment in office buildings.

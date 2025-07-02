@@ -1,0 +1,9 @@
+artifacts
+artifact
+people
+artist
+depicting
+depicts
+depict
+theme
+individuals

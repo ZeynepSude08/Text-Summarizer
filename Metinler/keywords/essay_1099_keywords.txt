@@ -1,0 +1,16 @@
+animals
+animal
+dogs
+dog
+cats
+cat
+products
+product
+production
+species
+domesticated
+domestic
+morin
+humans
+human
+ferguson

@@ -1,0 +1,3 @@
+according to history, there is a specific relationship between bitcoins halving and its price increase.
+bitcoin cost above 9,000 at the time when the third event of halving had happened.
+he explained the increase of this value after each halving by developing the bitcoin stocktoflow s2f model, which employs scarcity to define bitcoin price.

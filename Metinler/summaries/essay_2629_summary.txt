@@ -1,0 +1,10 @@
+an initial penetration test on the network interface of sifersgrayson revealed that the facilitys security system is vulnerable to security threats.
+the current report provides a detailed oversight into the most reliable security strategies that would be effective for sifersgraysons case and suggestions on why the company needs to adopt these recommendations.
+moreover, this security feature will allow sifersgrayson to delay identified threats until the security team can react to them effectively bagula et al., 2019.
+these measures ensure effective integration of a supplementary defense strategy by allowing sifersgrayson to control different aspects of the network interface, such as software documentation and source codes.
+another essential product for this defense strategy is the umt to protect the network using several features such as antivirus and content filtering.
+with fortigate umt, sifersgrayson will have a secure network since this tool allows for deployment on all physical systems and provides protection for different hardware.
+additionally, it is equipped with firewall features and intrusion and detention prevention, providing added layered security.
+based on the previous penetration test conducted by the read team, it is evident that sifersgrayson requires immediate intervention to secure its network from any form of attack.
+a reliable recommendation is the application of the two defensive strategies as discussed in this report and implementing a layered security interface.
+network security through a combination of jira and arm provides a seamless project and identity management and keeps the facility on the right track.

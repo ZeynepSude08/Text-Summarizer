@@ -1,0 +1,10 @@
+a spillway and stilling basin design report
+spillways are structures constructed to control flooding as they provide safe paths of releasing waters from floods from dams downstream.
+the spillway should clear water in large amounts without causing any form of damage to the dam or other surrounding structures while ensuring that the reservoir levels do not reach maximum gayar, 2020.
+a drop spillway is designed so that the excess waterfalls on the downstream side of the hydraulic structure are vertical.
+the negligible differences achieved from the different scenarios prove that the tool used to design the spillway and the stilling basin was effective.
+a downstream water depth of 2m and a stilling basin length of 16m were obtained.
+calculations proved that the stilling basin had to be raised by 0.603m to achieve the desired 2m water tail hence, it was insufficient to accommodate the hydraulic jump.
+they were placed in the basin where a hydraulic jump and dissipated energy were created once the water was crushed into them.
+results from the model test show that the stilling basin and the spillway design will perform effectively.
+model testing assured the theory of the design of the stilling basin due to the incorporation of the hydraulic jump.

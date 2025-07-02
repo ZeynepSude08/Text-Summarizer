@@ -1,0 +1,1 @@
+aspects web application testing research paper given literature review primarily focus topic web application performance tool wapt, utilized test webbased interfaces related applications. according current literature, load testing usually done evaluate behavior application given expected load jailia et al., 2018.

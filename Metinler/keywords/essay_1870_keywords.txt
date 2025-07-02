@@ -1,0 +1,4 @@
+patients
+patient
+asthma
+caregivers

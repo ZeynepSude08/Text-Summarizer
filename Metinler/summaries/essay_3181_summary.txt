@@ -1,0 +1,2 @@
+multiple crimes can be linked to a specific criminal, and the profile can be used to predict the future actions of the identified criminal.
+thus, profiling helps link criminals with committed crimes much faster with the help of patterns.

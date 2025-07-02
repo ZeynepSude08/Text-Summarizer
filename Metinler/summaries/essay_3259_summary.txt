@@ -1,0 +1,2 @@
+an implementation is a form of direct observation that allows specialists to assess how medical professionals approach hand washing directly.
+each health professional will be monitored in terms of how many times this person has approached the station to wash their hands.

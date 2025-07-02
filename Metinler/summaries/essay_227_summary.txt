@@ -1,0 +1,1 @@
+there is also an assumption that data science systems want to devour everything possible, including a humans life, and quantify it.

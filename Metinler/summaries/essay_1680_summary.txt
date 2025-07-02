@@ -1,0 +1,5 @@
+the first analyzed article is predicting the direction of stock market index movement using an optimized artificial neural network model by mingyue qiu and yu song.
+the use of innovative technologies, such as the optimized artificial neural network model ann, can improve the accuracy of the daily stock market index prediction qiu  song, 2016.
+comparing their method with the previous studies, they conclude that the hybrid gaann model can be viewed as a potentially advantageous method to increase prediction accuracy and acquire better results qiu  song, 2016.
+the authors state that artificial autonomous systems aas are widely used in various spheres to improve decisionmaking processes and attain better results cabrerapaniagua  rubilartorrealba, 2021.
+applying the machine learning techniques considering stock price indices, it is possible to acquire a better vision of the current markets state and increase the accuracy of predictions and effectiveness of various operations lee et al., 2018.

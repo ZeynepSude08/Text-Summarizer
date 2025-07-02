@@ -1,0 +1,12 @@
+group
+groups
+lesson
+student
+students
+planning
+plan
+strategies
+materials
+material
+educational
+education

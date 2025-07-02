@@ -1,0 +1,11 @@
+this memo serves to outline the pressing needs of linkedin in terms of effective software development.
+the reorganization of the internal accounting procedures implies a variety of approaches to developing and implementing the new software indicated in table 1.
+the second option is to outsource the development of the software through specialized commercial organizations.
+however, external organizations may lack the details of linkedins vision and needs in regard to the software.
+option three implies that the software development process is to be held within the company.
+available approaches to software development
+potential lack of specialized accounting software development expertise
+it is proposed to rely on the framework of the software development lifecycle that addresses all phases of the process kumar  rashid, 2018.
+software development  active development of the software within the internal developer team with weekly and monthly updates for the leadership
+the envisaged process is expected to result in the development and implementation of the advanced accounting software leading to the automation of an array of key processes.
+in other words, the members of the outsourced teams have limited knowledge of linkedins internal operations and needs.

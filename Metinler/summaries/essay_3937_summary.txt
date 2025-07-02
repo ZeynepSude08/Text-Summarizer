@@ -1,0 +1,2 @@
+analog transmission, on the other hand, employs signals that may be represented by sine waves, as opposed to digital communication, which uses square waves.
+analog transmission is also less expensive than digital communication, since online technology is inherently more expensive.

@@ -1,0 +1,4 @@
+it is now well known that dna consists of four nucleotides a, t, g, and cd, and every three variations of these nucleotides create a particular amino acid.
+if only two nucleotides were enough for coding, with no change in the number of monomers forming the dna, this would result in 42 variants or only 16, which is exactly four times less.
+in addition, the genetic code is degenerate, which means that the same amino acid is encoded by several codons at once.
+a reasonable conclusion can then be drawn that dna with 70 gc will require higher temperatures to break the entire molecule, in contrast to dna with almost 1.6 times lower proportion of g and cd nucleotides.

@@ -1,0 +1,1 @@
+reaction rate calculates average time interval dividing moles concentration change per liter overtime per seconds period time interval.

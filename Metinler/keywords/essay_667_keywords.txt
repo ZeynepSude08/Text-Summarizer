@@ -1,0 +1,6 @@
+scale
+product
+products
+production
+quantities
+quantity

@@ -1,0 +1,1 @@
+android studio project building separated two files, java xml, enable one develop apps using two files. java xml files perform different role android app development. one wants app appear certain way xml file becomes great use android studio project building.

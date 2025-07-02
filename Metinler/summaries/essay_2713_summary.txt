@@ -1,0 +1,3 @@
+the capstone project is dedicated to the analysis of uipath, an international company that develops software for robotic process automation rpa, and is aimed at analyzing how uipath could improve the installation plan of its products.
+first of all, the author should access detailed sales reports because they would help to detect the primary purchasers of uipaths rpa technologies and estimate the demand for rpa technologies.
+finally, an outlined problem of the capstone project on the weak sides of rpa technology provided by uipath could be solved through the comparative analysis of implementation plans and characteristics of technologies produced by uipaths competitors.

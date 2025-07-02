@@ -1,0 +1,17 @@
+technical drawings can be described as plans that show how a humanmade object is constructed.
+a technical drawing is usually a diagram that illustrates an object from different angles projections to explain its structure fig.
+figure 1 a technical drawing
+computeraided design cad is software used to create digital technical drawings.
+orthographic projection is used to represent a 3d object by using 2d drawings of its different viewpoints.
+there are two types of orthographic projection  first and third angle  they differ only in the way of putting the views onto the drawing fig.
+to draw a firstangle projection, one can imagine that the object is placed between the person drawing and the projection fig.
+to distinguish the first angle projection, technical drawings are marked with a specific symbol fig.
+5. on the technical drawing, the object is in the third quadrant, and the other views are placed in the first and second ones rahbarianyazd and nia, 2019.
+while objects views are separated into sides in orthographic projections, axonometric projections display the plan, front, and side views in one drawing.
+isometric projections are more common in technical drawings than in other axonometric types.
+figure 9 a technical drawing with different lines
+for example, a thin chain line represents the lines of symmetry in an object as well as the center and trajectory of the drawing saif, 2021.
+for this reason, all technical drawings are drawn to a specific scale for producers to build the object according to its true dimensions tornincasa, 2020.
+many types of scale exist, according to the drawings purpose and the measurement system used in the project.
+basic civil engineering 2015 different between 1st angle projection and 3rd angle projection in drawing, web.
+2020 technical drawing for product design .

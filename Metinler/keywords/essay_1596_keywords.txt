@@ -1,0 +1,4 @@
+students
+student
+information
+museum

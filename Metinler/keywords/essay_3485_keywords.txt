@@ -1,0 +1,6 @@
+voltage
+voltages
+light
+experiment
+current
+physics

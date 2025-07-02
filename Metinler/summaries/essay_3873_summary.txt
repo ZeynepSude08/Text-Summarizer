@@ -1,0 +1,3 @@
+healthcare facilities seek to extract sdohs data from their electronic health records to address healthcare challenges reeves et al., 2021.
+sdohs can be extracted from structured data collected by ehrs in structured and unstructured data.
+the sdoh data collected is used as an essential tool in developing and improving the health outcome of a patient.

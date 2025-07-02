@@ -1,0 +1,5 @@
+----- ÖZET -----
+A sound argument must have both a valid form and true premises. Valid arguments can be unsound, but they will have wrong assumptions. The purpose of argumentation is to establish the truth of a judgment. An invalid argument does not achieve this goal, so it cannot be considered sound.
+
+----- ANAHTAR KELİMELER -----
+deductive arguments valid, deductive arguments, argumentation based deductive, based deductive arguments, arguments essay deductive

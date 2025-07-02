@@ -1,0 +1,2 @@
+plotting this data on the cartesian plane will produce an almost exponential growth in the number of papers published, an example of which is shown in the figure below.
+number of published scientific papers on exponential functions over time obtained independently using the web of science platform

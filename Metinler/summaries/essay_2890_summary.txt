@@ -1,0 +1,8 @@
+warehouse logistics the use of internet of things proposal
+the internet of things iot can provide realtime visibility into the operations of warehouses and logistics providers.
+the goal of this review is to analyze various methods of warehouse logistics optimization in the context of iot implementation.
+warehouse logistics and new technologies
+this concept is applicable to various aspects of logistics, such as transportation planning and management, supply chain management, and warehouse operations golpraa, khanb,  safaeipour, 2021.
+warehouses are important components of the logistics industry as their operational efficiency is directly related to the efficiency of the supply chain.
+to conclude, iot is a useful tool for improving warehouse logistics.
+internet of things and smart warehouses as the future of logistics.

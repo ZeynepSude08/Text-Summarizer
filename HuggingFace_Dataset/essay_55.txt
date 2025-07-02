@@ -1,0 +1,37 @@
+Analysis of Coronary Heart Disease Essay
+
+Table of Contents
+ 1. Case Description
+ 2. Normal Physiological Functioning
+ 3. Pathophysiology
+ 4. Clinical Manifestations
+ 5. Influence on Body Systems
+ 6. References
+
+Case Description
+
+Coronary heart disease is a widely diagnosed physiological impairment that adversely impacts human well-being, healthy functioning and often leads to increased mortality. One of the historical figures who suffered from coronary heart disease was President William Howard Taft, who died because of heart issues on March, 8, 1930 in Washington, DC. Taft was the 27 th President of the United States from 1909 till 1913; his Presidential office was followed by his appointment as a Chief Justice in the Supreme Court in 1930, soon after which he died (Fallon, 2019). This disease is particularly dependent on lifestyle choices, especially unhealthy diet, substance use, and limited movement (Severino et al., 2020). The illness is a prevailing heart problem that requires adequate prevention and treatment methods advancement.
+
+Normal Physiological Functioning
+
+The healthy functioning of the heart is based on the non-disrupted work of the organ when pumping blood to all body systems. Under normal circumstances in a healthy individual, the blood is transmitted to the heart through coronary arteries, which provide nutrients and oxygen to body organs (Severino et al., 2020). In a healthy individual, the coronary arteries are clear without any formations that would obstruct the flow of blood to the heart. In such a manner, the delivery of blood with oxygen and nutrients to the whole body is timely and undisrupted, which guarantees the healthy functioning of the whole physiological system.
+
+Pathophysiology
+
+Coronary heart disease develops when the normal physiological functioning of the heart is impaired. This impairment occurs under the influence of plaques in the coronary arteries. The disease is caused by “the presence of an obstructive atherosclerotic plaque, which causes a blood flow reduction to the myocardium” (Severino et al., 2020, p. 2). The build-up of plaque on the inside of arteries that makes them narrower and more difficult for blood to pass is called atherosclerosis, which is a factor contributing to coronary heart disease (Severino et al., 2020, p. 2). Atherosclerosis further results in myocardial ischemia, which might result in a heart attack and may lead to disability or death.
+
+Clinical Manifestations
+
+The clinical manifestations of coronary heart disease include symptoms and signs that might signalize the problem. Firstly, the signs that might indicate coronary heart disease in a patient include dizziness, cold sweat, pain in the neck, shortness of breath, difficulty sleeping, and weakness (National Heart, Lung, and Blood Institute, n. d.). Secondly, chest pain is a common sign of heart problems in general and coronary heart disease in particular. However, women are “less likely than men to experience chest pain” but more often experience fatigue, nausea, pressure in the chest, and stomach pain (National Heart, Lung, and Blood Institute, n. d., para. 5). These signs and symptoms might vary from patient to patient and be manifested more or less severely.
+
+Influence on Body Systems
+
+Since coronary heart disease causes a disruption in the heart, this impairment ultimately affects other vital body systems. Firstly, it might disrupt the functioning of the cardiovascular system due to possible complications. They include “acute coronary syndrome, including angina or heart attack, arrhythmia, heart failure, cardiogenic shock, and sudden cardiac arrest” (National Heart, Lung, and Blood Institute, n. d., para. 5). With the obstructed blood flow to the heart, blood supply to such systems as digestive, respiratory, muscular systems, and the brain are insufficient. That is why these systems might not function properly. Moreover, coronary heart disease adversely impacts the nervous system by disrupting its balanced functioning, which deteriorates heart function in the future. Thus, coronary heart disease is a severe health problem that might disrupt the normal physiological work of the whole body or its particular systems.
+
+References
+
+Fallon, C. K. (2019). Husbands’ hearts and women’s health: Gender, age, and heart disease in twentieth-century America. Bulletin of the History of Medicine , 93 (4), 577-609.
+
+National Heart, Lung, and Blood Institute. (n. d.). Coronary heart disease. Web.
+
+Severino, P., D’Amato, A., Pucci, M., Infusino, F., Adamo, F., Birtolo, L. I., Netti, L., Montefusco, G., Chimenti, C., Lavalle, C., Maestrini, V., Mancone, M., Chilian, W. M., & Fedele, F. (2020). Ischemic heart disease pathophysiology paradigms overview: From plaque activation to microvascular dysfunction. International Journal of Molecular Sciences, 21 (21), 1-30.

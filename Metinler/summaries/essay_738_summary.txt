@@ -1,0 +1,7 @@
+spark is an opensource cluster of computer frameworks that optimally process realtime data.
+in this case, organizations use the spark system since it efficiently compiles realtime data and relays optimal analysis.
+the key difference between hadoop and spark is the approach to the data analytics process.
+apache spark processes data one hundred times faster than the hadoop mapreduce tool, thus increasing the data analytics mainframe dayananda, 2020.
+i would recommend that the ceo approves the use of both hadoop and spark due to the optimal efficiency and scalability provided across different fields of operations.
+while hadoop focuses on a batch of databases collected over a period of time, spark optimizes on the realtime dataset.
+ideally, spark and hadoop complement each other under the spectral view of dynamism in data analysis on realtime and batch datasets.

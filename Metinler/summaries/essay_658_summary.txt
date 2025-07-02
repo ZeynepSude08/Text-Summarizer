@@ -1,0 +1,4 @@
+the article presents a depth analysis of a time series estimation alongside prediction methods that are specifically aided with classic and advanced tools.
+another important thing to note is that the spectral analysis, as part of demand foresting methods, will be used to transform time series, especially in the frequency domain grzesica  wicek, 2016.
+specifically, and evidently, from the article, the spectral analysis, which is used to evaluate time series in events of the frequency domain, is the most accurate and reliable.
+based on the results and findings after the experiments, it was noted that spectral analysis presented threetime accurate results than the arma model and up to 4 times when compared to the brown model.

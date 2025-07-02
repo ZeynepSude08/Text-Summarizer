@@ -1,0 +1,10 @@
+teacher
+teachers
+students
+student
+school
+article
+articles
+face
+faced
+better

@@ -1,0 +1,5 @@
+----- ÖZET -----
+Data science is the discipline that studies the life cycle of digital data from appearance to use in other fields of knowledge. It involves researching and analyzing substantial amounts of information and is focused primarily on obtaining practical results. Os Keyes’s perspective opposes the standard definition of data science. Her expression implies that everything in this world could be measured since the discipline is concerned with quantitative analysis.
+
+----- ANAHTAR KELİMELER -----
+definition data science, data science vital, data science discipline, writing data science, data science practical

@@ -1,0 +1,8 @@
+the salespeople collected price data on 1001 real estate properties in the region to test whether the average price differs from the stated average.
+the objective of this test is to determine if the average sales price for the real estate prices differs from the estimated value of 275.
+from figure 1, it is clear that the average price of real estate prices has a positive skew.
+most of the real estate properties had an average price ranging from 200400 per square foot.
+nonetheless, the distribution approximated a bellshaped curve, and a normal probability test could be conducted to determine if the actual average price differed from the hypothesized difference.
+therefore, the average house prices are higher than 275 per square meter, and the advertisement should not be posted, as it will present a wrong assumption on the average cost of housing.
+in conclusion, a onetailed test for the average house prices showed that the hypothesized price of the house was higher than the actual average.
+the test, which was conducted at 5 level of significance, showed that the average house prices were lower than the hypothesized value of 275 per square meter.

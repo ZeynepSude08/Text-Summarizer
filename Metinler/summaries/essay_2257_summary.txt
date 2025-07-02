@@ -1,0 +1,4 @@
+the gantt chart is an important framework for designing a proper time plan when carrying out a certain project.
+gantt chart can be defined as a tool for depicting a schedule graphically in the form of bars and lines, which lets stakeholders see the timeline of a project more clearly davis  yen, 2019.
+by using the gantt chart, the construction managers can easily plan the schedule of the whole project and ensure efficient use of time.
+gantt charts communicate a project timeline not only to the main individuals in charge of a certain project but to every stakeholder involved in it wager et al., 2017.

@@ -1,0 +1,9 @@
+teachers
+teacher
+school
+schools
+students
+student
+parents
+educational
+education

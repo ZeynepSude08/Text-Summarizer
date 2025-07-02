@@ -1,0 +1,37 @@
+Customer-Oriented Service in Maritime Freight Transportation Research Paper
+
+Table of Contents
+ 1. Introduction
+ 2. Background
+ 3. Benefits of the Approach
+ 4. Associated Concerns
+ 5. Conclusion
+ 6. References
+
+Introduction
+
+While there are many clients who use the services of freight transportation, the competition between freight companies is equally considerable. Under such circumstances, the interest toward the fundamental elements of customer service exhibited by transportation providers is justified. This paper explores an idea of customer-oriented transportation services, in which the primary emphasis is laid on the client’s needs being met rather than the immediate economic gains from a trade agreement. It is theorized that such an approach can be more beneficial in the long-term, resulting in higher lifetime value of a single customer, as enabled by the positive service experience.
+
+Background
+
+The maritime transportation industry is the lifeline that ensures the normal functioning of the global economy and trade. However, it also implies the intense competition between different providers of shipment services. Thus, these companies remain in a constant pursuit of customer service improvement that allows them to acquire clients and retain them in the long term. In turn, clients value a range of qualities, such as “time, reliability, flexibility, qualification, accessibility, control, handling price, frequency, speed, long-term planning, management, and safety of transportation” (Wiegmans, Nijkamp, & Rietveld 2008, p. 89). In this regard, there are many variables that affect customer experience with a particular company. If most of these parameters are considered and met, a client is likely to return and remain loyal to the shipment company.
+
+Benefits of the Approach
+
+The primary emphasis of customer-oriented freight operations is on the alignment between the client’s needs and services provided. While the initial judgments are made on the economic basis of the agreement – or its price – the overall impressions are formed by the totality of key parameters. In other words, a positive price-quality ration is created by an emphasis on its second component, which includes shipment time, safety, and other vital variables. The core benefit of this model is associated with a higher lifetime value of a customer. This implies that a single client remains in continuous relations with the freight company, returning to use its services and bringing more profits in the long term. A stable, loyal customer base minimizes the need for customer acquisition in a competitive environment, thus reducing the associated costs (Giannikas McFarlane, & Strachan, 2019). As a result, while the initial gains may be lower than in a market-oriented company, such service providers see better returns in terms of resources and revenues at a longer distance.
+
+Associated Concerns
+
+On the other hand, the paradigm of clients’ needs in this industry is rather complex with many variables affecting the outcome. In fact, considering the vital nature of freight transportation for businesses, these needs include more parameters than in the majority of other spheres. Consequently, they become more difficult to meet, especially when some of them may be hardly compatible. In some cases, additional safety measures may lead to an increase in delivery time, and an opposite correlation is equally true. The efforts to meet all the variables within this complicated framework may result in excessive expenditures that could damage the freight company’s financial situation if a compromise on the price is made (Sitanggang & Absah, 2019). Customer experience is subjective, and there is no guarantee that the client will return after it. Ultimately, the theorized lifetime value may not actually transition into practice.
+
+Conclusion
+
+Overall, customer-oriented freight services are a promising approach to transportation that addresses the key challenges of the industry. By emphasizing client retention, freight companies minimize the necessity of customer acquisition. Therefore, acquisition costs are reduced, which is profitable in a highly competitive market. While compromises may be made on the initial returns from a single shipment, the potential lifetime value of a customer projects considerable profits in the long-term. There are valid concerns that are associated with this model, implying that a market-oriented framework is more balanced. However, in the current competitive environment, customer-centered freight operations are promising, as they mitigate the increasing rivalry within the industry.
+
+References
+
+Giannikas, V., McFarlane, D., & Strachan, J. (2019). Towards the deployment of customer orientation: A case study in third-party logistics. Computers in Industry, 104 , 75–87.
+
+Sitanggang, C. H., & Absah, Y. (2019). The influence of innovation, cost leadership strategy and customer orientation on competitive advantage and its impact on customer satisfaction at container depot of Pt Masaji Tatanan Container Branch of Belawan. International Journal of Research & Review, 6 (1), 34–46.
+
+Wiegmans, B., Nijkamp, P., & Rietveld, P. (2008). Container terminal handling quality. In R. Konings, H. Priemus, & P. Nijkamp (Eds.). The future of intermodal freight transport: Operations, design and policy (transport economics, management and policy) . MA, Northampton: Edward Elgar Publishing.

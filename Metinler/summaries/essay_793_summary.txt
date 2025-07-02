@@ -1,0 +1,2 @@
+fmnh2 poisoning is expected to have a more deleterious effect on the proton gradient because one of the primary chains of electron migration within the membrane is disrupted in this case.
+q receives electrons from fmnh2 and fadii and gives them to qh2, after which they migrate to complex iii, whereas cyt c receives electrons from complex iii and gives them to complex iv.

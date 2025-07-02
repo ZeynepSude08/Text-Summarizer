@@ -1,0 +1,7 @@
+data
+processing
+processed
+processes
+process
+farret
+bus

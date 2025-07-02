@@ -1,0 +1,5 @@
+signs
+weight
+treatment
+self
+anorexia

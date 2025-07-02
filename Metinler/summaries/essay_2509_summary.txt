@@ -1,0 +1,10 @@
+in the equations above, f represents the force exerted, k is the spring constant given in nm, and x is the extension or compression given by the difference between the new and original lengths of the material.
+to experimentally determine the relationship between the force exerted on a spring and the extension or compression produced
+a verticallyhanging spring  different masses
+different elastic materials have different spring constants, implying that they react differently to forces exerted on them.
+the three main elements studied in this experiment are mass, force, spring constant, and extension.
+from the above equation, the spring constant can be derived from the equation for force.
+in the first two trials, different masses were used to show the variation between mass and extension.
+hookes law is one of the fundamental principles in physics that defines the relationship between mass exerted and the extensioncompression of an elastic material.
+the graph shows a linear relationship between mass and extension, with its slope giving the springs constant.
+fforce exerted on the spring, kspring constant, x the extension

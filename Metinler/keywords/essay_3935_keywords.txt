@@ -1,0 +1,6 @@
+inflation
+demand
+rate
+rates
+production
+products

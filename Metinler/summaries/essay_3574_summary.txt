@@ -1,0 +1,4 @@
+gdp per capita, political regimes, and human rights based on the freedom house rating are used to describe the current situation in the considered country and its neighbors.
+gdp per capita  political regime         human rights 0100  number of revolutions in the last 10 years
+gdp per capita  political regime  human rights 0100  number of revolutions in the last 10 years
+various reasons can lead to these revolutions, since there is no obvious correlation with the number of revolutions in the country countries and territories neither in the indicators of human rights, nor in gdp per capita, nor in the political regime.

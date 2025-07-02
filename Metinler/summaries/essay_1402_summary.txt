@@ -1,0 +1,7 @@
+this work will present an economic analysis of the portfolio beta, mean, and sharpe ratio based on the performance of the stock during the specified period.
+the portfolio beta was calculated using the provided excel spreadsheet that takes into consideration stock prices and respective index levels for this security for the same period.
+it is determined that the value of beta equals 0.798697096 roughly 0.798697096, indicating that the portfolio tends to be less volatile than the market.
+however, the portfolio mean can be determined only for the portion of the year end of septembernovember as the stock was held only for this period.
+therefore, the risk premium for stocks for the portfolio for the given period of time equals 1.13.
+it is possible to provide calculations of the sharpe ratio for the portfolio to determine the value of the stock price based on current values of determinants.
+those indicators are risk premium for stocks portfolio mean return, riskfree rate during 2 months period roughly 0,06, current monthly riskfree rate 0,11 based on the daily treasury yield curve rates and standard deviation.

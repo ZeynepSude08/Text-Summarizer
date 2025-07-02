@@ -1,0 +1,13 @@
+physician
+physicians
+patient
+patients
+healthcare
+doctors
+doctor
+medical
+benefit
+benefits
+law
+ethics
+ethical

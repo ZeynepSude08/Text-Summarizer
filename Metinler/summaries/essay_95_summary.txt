@@ -1,0 +1,10 @@
+in addition to researchers, the audience of the first article is data security agents as it provides some insights on how the use of artificial intelligence to 5g can be venerable to external attacks.
+this paper examines articles of benzaid and taleb 2020 and zhang et al.
+the article of benzaid and taleb 2020 appeals to the audience by considering all potential security scenarios and analyzing specific aspects of ai and 5g network.
+the importance of ai in encouraging security in 5g and beyond networks was highlighted in benzaid and taleb 2020 article.
+the unique combination of tbl and 360degree evaluation feedback as part of the engineering capstone project plays a vital role in developing, evaluating, and acquiring educational capacity in undergraduate engineering majors, according to this empirical research study.
+the study started with a look at bim education and capstone projects in mep systems, as well as tbl and 360degree evaluation feedback in education.
+this bim capstone project approach i.e., tbl paired with bim 360degree evaluation feedback seeks to assist students and teachers through mep systems teaching and practice, and its teaching content can be tailored to various engineering specialties needs.
+third, tbl was paired with 360degree evaluation feedback in the bim capstone, followed by the use of 360degree evaluation feedback to evaluate students learning outcomes and bim competency, using a university in china as an example.
+the goal is to use the new capstone project in conjunction with tbl and 360degree evaluation feedback as an intervention measure to see how it affects bim capability.
+toward nextgeneration engineering education a case study of an engineering capstone project based on bim technology in mep systems.

@@ -1,0 +1,2 @@
+causal indeterminism is the theory that free actions do not have to be caused by anything, nor do they have any intrinsic causal structure.
+it argues that free actions must be uncaused, while others admit they can be caused by nondeterministically.

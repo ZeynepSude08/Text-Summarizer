@@ -1,0 +1,14 @@
+in this sense, one should mention the model of the cost of a positive integer as an attempt to represent kolmogorov complexity in a more straightforward, more comprehensible language.
+in general, the cost of a positive integer describes the complexity of representing any positive integer in a data set as the sum or product of smaller numbers from the same set.
+in creating the cost function of a positive integer, cm , calhoun used the following considerations
+consequently, since one of the two operations for a finite number of smaller numbers must be applied to identify the conditional third term of the data set, the calhoun function is recursive avu.
+thus, for any set of binary operations s and for any positive integer m , there exists a calhoun function such that
+however, for 5, there is only one function, c s , that uniquely describes the set s and satisfies the definition of the value of a positive integer.
+another critical consequence follows from the above if the number of operations in s is finite, then c s is an evaluable function, unlike the kolmogorov complexity of a string.
+in fact, the positive integer cost function described in the previous section is a multivalued mathematical model from which several valuable conclusions can be drawn.
+recall that c s is defined as a minimum of possible binary operations on smaller positive integers.
+for example, a positive integer m can be called multiplicative if
+hence, by now, it is precisely known that the calhoun model uses either multiplication or addition as variations of binary operations, with the cost function of a positive integer applying either of these operations whose result will be numerically smaller.
+an example of positive integer cost functions for numbers from 1 to 10.
+for example, table 1 shows that the number 9 is fully multiplicative, so it can be represented as
+kolmogorov complexity is one such phenomenon in the general case, this model shows the impossibility of computing a program that could define a minimally compressed model that fully encodes some information.

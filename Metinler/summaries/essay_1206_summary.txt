@@ -1,0 +1,2 @@
+one of the most famous software programs for digital forensics is autopsy, a toolkit that examines the images present on a devices hard drive.
+considering that a windows registry contains a vast amount of information about the applications installed and data processed, arsenal recon can be extremely valuable when conducting a digital forensic investigation  arsenal recon , n.d..

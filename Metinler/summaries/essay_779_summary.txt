@@ -1,0 +1,2 @@
+the instant calculation is by determining the negativity of the slope and the curve for the concentration of the moles per liter against time in seconds du et al., 2021 p 3154.
+the reaction rate calculates the average over a time interval by dividing the moles concentration change per liter overtime per seconds period by time interval.

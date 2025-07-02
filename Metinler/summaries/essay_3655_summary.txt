@@ -1,0 +1,8 @@
+2. elements of a secure supply chain
+3. challenges of supply chain security
+therefore, data privacy and transaction security are essential if the supply chain organization expects to avoid any breaches and interior or exterior attacks.
+elements of a secure supply chain
+challenges of supply chain security
+the lack of control over supply chain security reduces the level of trust consumers, and stakeholders might have, especially if it is an ecommerce business or a thirdparty organization that depends on its public image nagurney et al., 2017.
+the second crucial challenge in the field of supply chain security is the inability of organizations to prevent fraud and track all the data changes within the system.
+the growing impact of cybersecurity attacks also creates enough room for supply chain security specialists to scan for bigger risks and collect data from even more sources than today.

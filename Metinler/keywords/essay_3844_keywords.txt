@@ -1,0 +1,9 @@
+event
+events
+political
+politics
+news
+trump
+article
+mob
+mobs

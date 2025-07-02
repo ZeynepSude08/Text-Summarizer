@@ -1,0 +1,3 @@
+vpn helps to protect personal information from hackers or government surveillance by encrypting traffic and hiding user ips.
+users can bypass the restriction by using a vpn with an ip address from the whitelisted countries.
+vpn assumes that the user and device on the other end are secure.

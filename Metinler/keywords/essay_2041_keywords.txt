@@ -1,0 +1,15 @@
+resources
+resource
+nursing
+nurses
+nurse
+costs
+cost
+budget
+budgeting
+direct
+directly
+directions
+expenses
+expense
+flaherty

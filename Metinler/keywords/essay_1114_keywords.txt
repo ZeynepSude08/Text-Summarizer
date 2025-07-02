@@ -1,0 +1,6 @@
+parent
+parents
+parental
+children
+zurcher
+kuhn

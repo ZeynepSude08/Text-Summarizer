@@ -1,0 +1,5 @@
+what concerns the elaboration of an obstacle course in a realworld simulation, it is essential to ensure the presence of several procedure testing steps that will determine the functionality of a robot.
+in order to elaborate an obstacle course that can test the autonomy of simple robots, it is possible to select a realworld simulation as a course general design approach.
+what concerns a realworld simulation, this testing concept is based on the assessment of how efficiently a robot is able to avoid obstacles and solve issues in practical and real circumstances, as in figure 1 pandey et al., 2019.
+since the course design is dedicated to the ability of a robot to avoid real obstacles in a condition of a simulation, it is important to emphasize the presence of sensor component options.
+it is conceivable to use a realworld simulation as a basic design strategy for creating an obstacle course that can test the autonomy of simple robots.

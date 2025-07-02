@@ -1,0 +1,4 @@
+opv cells are perfectly suited to power mobile applications  camping gear, wearable technologies, or phone chargers naushad, rajendran,  alenizi, 2020.
+1. light with high enough energy levels is absorbed by the osc and excites electrons from the homo to the lumo to form an exciton.
+if the energy of the light being absorbed is greater than the band gap, the electron will move to a higher level agugliaro  garca, 2020.
+if there is no current flowing through the opv cell, the voltage is called the opencircuit voltage voc and on a currentvoltage curve, this correlates to the xintercept.

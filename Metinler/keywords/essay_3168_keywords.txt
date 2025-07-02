@@ -1,0 +1,10 @@
+dogs
+dog
+cats
+cat
+pets
+pet
+web
+albuquerque
+owners
+owner

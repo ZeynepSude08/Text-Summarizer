@@ -1,0 +1,40 @@
+955 words
+
+
+Summary
+The development of computer technology is characterized by the change in the technology used in building the devices. The evolution of computer technology is divided into several generations, from mechanical devices, followed by analog devices, to the recent digital computers that now dominate the world. This paper examines the evolution of computers and their technology, their use in the early and modern periods, their merits and demerits, and future developments.
+
+Evolution of Computers and their Technology
+Mechanical Age (1800s -1920s)
+The development of the computer characterized this period to facilitate mathematical calculations that could not be done manually by individuals. The first notable computing device was the “analytical engine” designed by Charles Babbage in 1834, which used electromechanical relays to function (Zakari 1). The mechanical era saw improvements made to the first design by Babbage until the first generation era.
+
+First Generation (the 1930s-1950s)
+The first generation era is characterized by the development of three electronic computers that used vacuum tubes, unlike the previous devices that used electromechanical relays to perform their tasks (Enzo 4). In this period, the machines were capable of storing data in the form of instructions written manually by the programmers and installed into the device (Zakari 1). The devices developed in this period were primarily used in applied science and engineering to facilitate solving evaluations.
+
+Second Generation (Mid-1950s-Early 1960s)
+The second-generation period saw the development of many design areas; there was development in the technology used and the programming language used to write the commands. Unlike in the previous generations, the operations in this era were performed in the hardware (McAfee 141). The period saw the development of the index registers used for numerous operations.
+
+Third Generation (the Early 1960s – Early1970s)
+The era saw improvement in the technology used in designing the devices; integrated circuits in computer devices were introduced. The period saw the introduction of the microprogramming technique and the development of the operation system (Zakari, 1). The speed of functioning of the devices designed in this period was faster than in the previous eras, and the computers could perform more functions.
+
+Fourth Generation (The early 1970s – Mid 1980s)
+This Generation saw the development in the use of large-scale integration in the computers developed. The size of the microchips was the information for the computers was stored was reduced to allow for data to be stored in the same microchip (Zakari 1). The devices were installed with semiconductors memories to replace the core memories of the previous era. The processors were designed with high speed to allow faster processing speed of operations in the devices (McAfee 141).
+
+Fifth Generation (the Mid 1980s- Early 1990s)
+The machines/ devices designed had many processors that worked simultaneously on a single program (Zakari1). The semiconductors in the computers were improved to increase the scale of operation with the development of chips (Enzo 2). In this period, the computer devices developed were capable of performing parallel processing of commands. Which improved their functionality?
+
+Sixth Generation (1990 to Date)
+The era is characterized by improvements in all the areas of designing computers. There is a reduction in the size of the devices developed with increased portability of the machines. The era has seen the development of computers to interact more with people and facilitate human functions in society, with an increase in connection due to improved network development linking computers (Zachari 1).
+
+Uses of Computers
+The early computers were mainly used to accomplish mathematical functions in applied science and engineering. These machines were primarily used to solve mathematical calculation problems (Zakari 1). The second-generation devices improved on their functionality and were capable of processing information stored in them by the programmer (Zakari 1). Today, individuals use computers to perform various functions, including facilitating communication, storing data, and processing information for individuals. The use of computer technology is now in every section of the world; people in different areas are using computers to perform numerous functions (McAfee 141). The technology is directly applied in agriculture, health and medicine, education and transport, communication, and other regions.
+
+Advantages of Computers and their Technology
+Computer technology has enabled the development of devices like mobile phones that are easy to use and effective, allowing individuals to keep in contact with one another even when at different locations (Golosova and Romanovs 3). Computer technology has improved manufacturing; producing goods is now better and more efficient due to the development of technology that enhances individuals’ performance. Computer technology enhances the development of better healthcare operations by facilitating functions in health. Computer technology also enhances learning as individuals can get the required learning material (Golosova and Romanovs 6). Computers and computer technology improve teacher-student interaction during education by providing a medium that can facilitate lessons.
+
+Disadvantages of Computers and Computer Technology
+Computers are hazardous to human health; when used excessively, individuals suffer from health issues like eye problems resulting from extreme exposure to the screen light. Also, sitting for an extended period affects an individual’s health (Golosova and Romanovs 14). Computers and computer technology are artificial, making them susceptible to human manipulation; humans are exposed to risks from those that can harm them by manipulating information (Suma 133). Computers also impact the environment negatively due to the carbon footprint left in the environment when they become obsolete because people can no longer use them.
+
+Trends in Computer Technology
+There is an expected increase in the use of artificial intelligence among people with increased developments in computers and their technology (McAfee 141). Computer technology is expected to increase the automation of processes and functci0ons previously done by humans in society. Computer technology is expected to increase the virtual reality and augmented reality among individuals in society to improve the human experience.
+

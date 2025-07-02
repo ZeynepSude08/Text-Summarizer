@@ -1,0 +1,8 @@
+needs
+need
+health
+self
+population
+drug
+drugs
+care

@@ -1,0 +1,6 @@
+species
+animals
+animal
+gene
+genes
+zachos

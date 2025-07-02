@@ -1,0 +1,7 @@
+cybersecurity threats
+also, there are security threats to iot devices, deepfakes, malicious ads, cyber attacks from social networks, and many other threats narwal et al., 2019.
+recently, there has been exponential growth in the amount of data processed in various systems narwal et al., 2019.
+there is a growing trend toward the use of artificial intelligence and machine learning technologies by cybercriminals to search for vulnerabilities, implement phishing attacks, bypass biometric authentication and protection, create malicious software, and guess passwords.
+the apt12 group successfully achieves its goals, as its attacks and malware are noted in many organizations.
+advances in machine learning in recent years have allowed the creation of a huge number of applications such as applied data analysis, threats, malware detection, and removal.
+none of the apt12 case studies described indicate that organizations have used machine learning.

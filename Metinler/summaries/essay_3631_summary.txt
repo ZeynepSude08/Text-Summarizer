@@ -1,0 +1,6 @@
+one of the most striking examples of gender bias in academia is the story of the french female mathematician sophie germain, who made significant contributions to differential geometry and number theory.
+sophie germain created a proof of this theorem for several exceptional cases  for example, when  which was an impossible task for euler and gauss flanders, 2018.
+among germains mathematical discoveries, her proposed number theorem should be highlighted, which, although correct, has not received adequate attention from the academic community.
+another of germains apparent contributions to science was the study of elasticity theory using chladni plates as an example.
+sophie germain is one of them raised in an environment of nonrecognition of her mathematical abilities, germain was forced to hide behind a male pseudonym in order to correspond with iconic french mathematicians.
+sophie was able to provide proof of fermats last theorem for a whole class of prime numbers, develop her own proof of the complexity of any number of the form , and create a foundation for solving the chladni problem for the elastic vibrations of sand on plates.

@@ -1,0 +1,3 @@
+to connect the internet in this way, only a sim card is needed if a user plans to access the network only from a mobile device.
+connection via optical fiber and satellite internet ensures high connection stability, while mobile 3g4g internet gives a weak signal at long distances from the station.
+this memo offered several potential solutions to the problem of low internet connection in remote villages.

@@ -1,0 +1,3 @@
+clinical significance refers to differences in effect sizes that clinical experts consider to determine clinical decisions, regardless of their level of statistical significance todd et al., 1996.
+if only statistical significance is considered, researchers may report findings that are of little value in practice sandelowski  leeman, 2012.
+effect sizes and statistical testing in the determination of clinical significance in behavioral medicine research.

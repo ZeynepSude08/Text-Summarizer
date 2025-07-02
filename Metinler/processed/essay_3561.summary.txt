@@ -1,0 +1,1 @@
+configure dns server network server windows server 2016 1. 6. pick dns server role 7. window display asking confirm dependencies installed usually administrative tools dns role requires.

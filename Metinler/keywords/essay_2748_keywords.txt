@@ -1,0 +1,13 @@
+weight
+device
+devices
+calories
+calorie
+problems
+problem
+product
+small
+features
+approach
+certain
+unique

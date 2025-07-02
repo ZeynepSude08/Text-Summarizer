@@ -1,0 +1,2 @@
+a third important activity in database maintenance is regularly making checks, such as security or data errors, to ensure that the database works properly and will not fall down.
+thus, a query should be used to access or change a particular element of a database and a filter to access a set of elements based on their labels.

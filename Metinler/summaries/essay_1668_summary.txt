@@ -1,0 +1,3 @@
+the work of a spectrophotometer is based on this law to calculate the amount of light, its absorption, and concentration.
+the law states that the way of how a substance absorbs light is proportional to its sample concentration amount thus, there is a linear relationship between the elements khan academy, 2010.
+when it is necessary to measure chemical substances or determine reactions, spectrophotometers are offered to analyze the intensity of light absorbed after passing a solution with a certain level of chemical substances concentration.

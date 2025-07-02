@@ -1,0 +1,4 @@
+slaves
+main
+mainly
+property

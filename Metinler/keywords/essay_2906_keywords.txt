@@ -1,0 +1,7 @@
+seed
+seeds
+crops
+crop
+variety
+varieties
+web

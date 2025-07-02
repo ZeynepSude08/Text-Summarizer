@@ -1,0 +1,10 @@
+novice computer users can follow this instruction guide to effectively change hdd without causing any damage to the computer hardware and software components.
+these instructions will allow the readers to change the hdd from a faulty computer step by step and switch on the computer to test the new hdd.
+while changing the hdd seems easy following this instruction guide, the computer user should have basic computer knowledge.
+before starting the process of changing the hdd, several tools and materials are required.
+the following list of tools is needed when changing the hdd in a computer.
+the following steps should be followed when changing hdd, and the readers should remember to disconnect the power supply and carefully read the hdds manufacturers instructions.
+meanwhile, laptops either have special cases with special doors for easy insertion and removal of hdd or need unscrewing of various components and battery removal.
+use the philipshead screwdriver to remove all the screws attaching the hdd to the system unit.
+if the computer case does not support the drive, you can use your hand to support the hdd.
+after that, carefully screw the hdd in, reconnect the power and data cables, and close the system unit.

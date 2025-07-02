@@ -1,0 +1,16 @@
+trebuchets projectile weight and its effect on projectile distance research paper
+the popularity of trebuchets is mainly due to their simplicity the energy of the sharply falling weight, attached to the short end of the lever, is transferred to the loose core, which due to the resulting momentum, is transported over long distances.
+the experiments hypothesis states that an increase in the projectiles weight causes a decrease in the distance traveled by the projectile.
+what effect does the weight of the projectile from the trebuchet mechanism have on the projectile range?
+the present experimental work investigates the relationship between the projectile weight and the horizontal distance from the trebuchet, and therefore it is possible to assume which variables are used in the study.
+the independent variable that is manipulated in this work is the weight of the projectile from the trebuchet.
+in addition, all other characteristics of the trebuchet, except the projectile range.
+table 2 below shows the results obtained by measuring the throw distance of various masses of the projectiles with a diameter of 1 meter at a 45degree angle of release.
+projectile weight kg  distance m
+dependence of the maximum projectile range on the weight of the projectile for the trebuchet.
+the gradient has a negative value, which suggests that an increase in the projectile weight independent variable causes a decrease in its horizontal distance dependent variable.
+thus, the horizontal distance traveled by the projectile has an inverse relationship with the projectiles weight.
+this hints that after 100 kg, any additional weight on the projectile decreases the distance traveled by a smaller amount.
+they include the angle of displacement, the lengths of both the short and long arms, lengths of the weight and sling, the pivots height, the projectiles material, and most importantly, the counterweight mass.
+in addition to the projectiles weight, this could be the length of the short arm of the lever or the angle of displacement as additional characteristics affecting the variable.
+therefore, this creates an interesting topic to further research and understand the relationship between the wheels, the trebuchets motion, and the distance traveled by the projectile.

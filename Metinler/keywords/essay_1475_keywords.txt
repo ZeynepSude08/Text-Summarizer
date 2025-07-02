@@ -1,0 +1,9 @@
+external
+product
+products
+company
+companies
+price
+technologies
+technological
+environmental

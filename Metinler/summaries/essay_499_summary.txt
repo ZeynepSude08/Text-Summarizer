@@ -1,0 +1,5 @@
+a dynamic panel model with country and regimespecific smooth variations in the mean is used to investigate the effects of exchange rate regimes on inflation persistence.
+the effects of the exchange rate regime on relative inflation persistence, on the other hand, are unclear wu  wu, 2018.
+it is important to note that the flexible exchange rate causes inflation.
+comparative analysis of the multifractality and efficiency of exchange markets evidence from exchange rates dynamics of major world currencies.
+does a flexible exchange rate regime increase inflation persistence?

@@ -1,0 +1,3 @@
+clinical repositories are valuable sources of information however, they do not permit the analysis of the data and its integration into other systems of the hospital.
+on the other hand, data warehouses are more comprehensive systems that are capable of retrieving information from a larger number of sources and analyzing it simultaneously.
+while it is possible to utilize external sources to create the database, this approach might obstruct the full functionality of a data warehouse.

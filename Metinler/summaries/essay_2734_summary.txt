@@ -1,0 +1,6 @@
+this data collection plan tends to investigate the penetration testing attack conducted by the read team and make conclusions from it.
+direct network penetration the red team found the vulnerability in the companys internal network.
+for each of the three attack vectors, specific pieces of evidence should be collected and then evaluated.
+network and firewall logs should be collected to understand how the network vulnerabilities were exploited along with that, all cloud storage of the company, such as dropbox, should be examined raja sree  mary saira bhanu, 2020.
+at first, the vehicle itself should be investigated then, all instructions which were sent to them should be collected as digital evidence harbawi  varol, 2017.
+for the direct infiltration of the red team members into the company, evidence should be collected from at least three points of view.
